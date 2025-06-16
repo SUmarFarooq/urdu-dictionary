@@ -1,0 +1,23 @@
+[
+  {
+    "romanized": "dost",
+    "urdu": "دوست",
+    "definition": "Friend",
+    "usage": "Woh mera dost hai. (He is my friend.)",
+    "related": ["yaar", "saathi"]
+  },
+  {
+    "romanized": "pyaar",
+    "urdu": "پیار",
+    "definition": "Love",
+    "usage": "Usne apne maa baap se pyaar kiya. (He loved his parents.)",
+    "related": ["mohabbat", "ishq"]
+  },
+  {
+    "romanized": "kitab",
+    "urdu": "کتاب",
+    "definition": "Book",
+    "usage": "Mujhe kitab parhna pasand hai. (I like to read books.)",
+    "related": ["daftar", "risala"]
+  }
+]

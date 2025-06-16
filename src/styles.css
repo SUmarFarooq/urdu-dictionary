@@ -1,0 +1,12 @@
+body {
+  font-family: 'Inter', 'Noto Sans', 'Segoe UI', Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: -0.02em;
+}
+
+/* Subtle shadow for table */
+table {
+  box-shadow: 0 2px 16px 0 rgba(80, 60, 120, 0.07);
+}
