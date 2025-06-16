@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Simple Urdu Dictionary</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@3.4.1/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-50 min-h-screen flex flex-col items-center py-10">
+  <h1 class="text-4xl font-bold mb-8 text-blue-700">Urdu Dictionary</h1>
+  <div class="w-full max-w-4xl bg-white shadow-lg rounded-lg p-6">
+    <table class="min-w-full table-auto border-collapse">
+      <thead>
+        <tr class="bg-blue-100 text-blue-900">
+          <th class="px-4 py-2 text-left">Romanized</th>
+          <th class="px-4 py-2 text-left">Urdu</th>
+          <th class="px-4 py-2 text-left">Definition</th>
+          <th class="px-4 py-2 text-left">Usage</th>
+          <th class="px-4 py-2 text-left">Related Words</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="border-b hover:bg-blue-50">
+          <td class="px-4 py-2">dost</td>
+          <td class="px-4 py-2 text-2xl">دوست</td>
+          <td class="px-4 py-2">Friend</td>
+          <td class="px-4 py-2">Woh mera dost hai. (He is my friend.)</td>
+          <td class="px-4 py-2 text-blue-600">yaar, saathi</td>
+        </tr>
+        <tr class="border-b hover:bg-blue-50">
+          <td class="px-4 py-2">pyaar</td>
+          <td class="px-4 py-2 text-2xl">پیار</td>
+          <td class="px-4 py-2">Love</td>
+          <td class="px-4 py-2">Usne apne maa baap se pyaar kiya. (He loved his parents.)</td>
+          <td class="px-4 py-2 text-blue-600">mohabbat, ishq</td>
+        </tr>
+        <tr class="border-b hover:bg-blue-50">
+          <td class="px-4 py-2">kitab</td>
+          <td class="px-4 py-2 text-2xl">کتاب</td>
+          <td class="px-4 py-2">Book</td>
+          <td class="px-4 py-2">Mujhe kitab parhna pasand hai. (I like to read books.)</td>
+          <td class="px-4 py-2 text-blue-600">daftar, risala</td>
+        </tr>
+      </tbody>
+    </table>
+    <div class="mt-8 text-right">
+      <span class="text-gray-500 text-sm">Future: <a href="#" class="text-blue-500 underline">Add a new word</a></span>
+    </div>
+  </div>
+  <footer class="mt-10 text-gray-400 text-sm">&copy; 2024 Simple Urdu Dictionary</footer>
+</body>
+</html> 
