@@ -33,8 +33,8 @@ title: Urdu Dictionary
           </tr>
         </thead>
         <tbody>
-          {% for word, idx in words %}
-          <tr class="{{ idx % 2 == 0 ? 'bg-purple-50/40' : 'bg-white' }} border-b last:border-0 hover:bg-pink-50 transition">
+          {% for word in words %}
+          <tr class="{% if loop.index0 % 2 == 0 %}bg-purple-50/40{% else %}bg-white{% endif %} border-b last:border-0 hover:bg-pink-50 transition">
             <td class="px-6 py-4 text-base font-medium">{{ word.romanized }}</td>
             <td class="px-6 py-4 text-2xl urdu">{{ word.urdu }}</td>
             <td class="px-6 py-4">{{ word.definition }}</td>
