@@ -8,38 +8,50 @@ title: Add a New Word
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ title }}</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&family=Noto+Nastaliq+Urdu:wght@400;700&display=swap" rel="stylesheet">
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@3.4.1/dist/tailwind.min.css" rel="stylesheet">
   <link href="/styles.css" rel="stylesheet">
+  <style>
+    body { font-family: 'Inter', Arial, sans-serif; }
+    .urdu { font-family: 'Noto Nastaliq Urdu', serif; }
+  </style>
 </head>
-<body class="bg-gradient-to-br from-blue-50 to-purple-100 min-h-screen flex flex-col items-center py-10">
-  <div class="w-full max-w-lg bg-white/80 shadow-2xl rounded-2xl p-8 backdrop-blur">
-    <h1 class="text-3xl font-bold mb-8 text-purple-700">Add a New Word</h1>
-    <form class="space-y-6">
-      <div>
-        <label class="block text-purple-800 font-semibold mb-1">Romanized</label>
-        <input type="text" name="romanized" class="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-400" required>
+<body class="bg-gradient-to-br from-pink-50 via-blue-50 to-purple-100 min-h-screen flex flex-col items-center">
+  <main class="w-full max-w-lg flex-1 flex flex-col items-center px-4">
+    <div class="w-full bg-white/90 shadow-2xl rounded-3xl p-8 mt-10 border border-purple-100">
+      <div class="flex items-center gap-3 mb-8">
+        <span class="inline-flex items-center justify-center bg-gradient-to-r from-pink-500 to-purple-600 text-white rounded-full w-10 h-10 shadow-lg">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4" /></svg>
+        </span>
+        <h1 class="text-3xl font-bold text-purple-700 tracking-tight">Add a New Word</h1>
       </div>
-      <div>
-        <label class="block text-purple-800 font-semibold mb-1">Urdu</label>
-        <input type="text" name="urdu" class="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-400" required>
-      </div>
-      <div>
-        <label class="block text-purple-800 font-semibold mb-1">Definition</label>
-        <input type="text" name="definition" class="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-400" required>
-      </div>
-      <div>
-        <label class="block text-purple-800 font-semibold mb-1">Usage</label>
-        <input type="text" name="usage" class="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-400">
-      </div>
-      <div>
-        <label class="block text-purple-800 font-semibold mb-1">Related Words <span class="text-xs text-gray-500">(comma separated)</span></label>
-        <input type="text" name="related" class="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-400">
-      </div>
-      <div class="flex justify-between items-center mt-8">
-        <a href="/" class="text-purple-600 hover:underline">&larr; Back to Dictionary</a>
-        <button type="submit" class="bg-purple-600 text-white px-6 py-2 rounded-lg shadow hover:bg-purple-700 transition cursor-not-allowed opacity-60" disabled>Submit (Coming Soon)</button>
-      </div>
-    </form>
-  </div>
+      <form class="space-y-7">
+        <div class="relative">
+          <input type="text" name="romanized" id="romanized" class="peer w-full px-4 py-3 border border-purple-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-400 bg-purple-50/30 placeholder-transparent" placeholder="Romanized" required>
+          <label for="romanized" class="absolute left-4 top-3 text-purple-800 font-semibold pointer-events-none transition-all peer-placeholder-shown:top-3 peer-placeholder-shown:text-base peer-focus:-top-5 peer-focus:text-xs peer-focus:text-purple-600 bg-white/80 px-1">Romanized</label>
+        </div>
+        <div class="relative">
+          <input type="text" name="urdu" id="urdu" class="peer w-full px-4 py-3 border border-purple-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-400 bg-purple-50/30 placeholder-transparent urdu text-2xl" placeholder="Urdu" required>
+          <label for="urdu" class="absolute left-4 top-3 text-purple-800 font-semibold pointer-events-none transition-all peer-placeholder-shown:top-3 peer-placeholder-shown:text-base peer-focus:-top-5 peer-focus:text-xs peer-focus:text-purple-600 bg-white/80 px-1">Urdu</label>
+        </div>
+        <div class="relative">
+          <input type="text" name="definition" id="definition" class="peer w-full px-4 py-3 border border-purple-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-400 bg-purple-50/30 placeholder-transparent" placeholder="Definition" required>
+          <label for="definition" class="absolute left-4 top-3 text-purple-800 font-semibold pointer-events-none transition-all peer-placeholder-shown:top-3 peer-placeholder-shown:text-base peer-focus:-top-5 peer-focus:text-xs peer-focus:text-purple-600 bg-white/80 px-1">Definition</label>
+        </div>
+        <div class="relative">
+          <input type="text" name="usage" id="usage" class="peer w-full px-4 py-3 border border-purple-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-400 bg-purple-50/30 placeholder-transparent" placeholder="Usage">
+          <label for="usage" class="absolute left-4 top-3 text-purple-800 font-semibold pointer-events-none transition-all peer-placeholder-shown:top-3 peer-placeholder-shown:text-base peer-focus:-top-5 peer-focus:text-xs peer-focus:text-purple-600 bg-white/80 px-1">Usage</label>
+        </div>
+        <div class="relative">
+          <input type="text" name="related" id="related" class="peer w-full px-4 py-3 border border-purple-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-purple-400 bg-purple-50/30 placeholder-transparent" placeholder="Related Words">
+          <label for="related" class="absolute left-4 top-3 text-purple-800 font-semibold pointer-events-none transition-all peer-placeholder-shown:top-3 peer-placeholder-shown:text-base peer-focus:-top-5 peer-focus:text-xs peer-focus:text-purple-600 bg-white/80 px-1">Related Words <span class="text-xs text-gray-500">(comma separated)</span></label>
+        </div>
+        <div class="flex justify-between items-center mt-8">
+          <a href="/" class="text-purple-600 hover:underline">&larr; Back to Dictionary</a>
+          <button type="submit" class="bg-gradient-to-r from-pink-500 to-purple-600 text-white px-7 py-3 rounded-xl shadow-lg hover:from-purple-600 hover:to-pink-500 hover:scale-105 transition-transform font-bold text-lg cursor-not-allowed opacity-60" disabled>Submit (Coming Soon)</button>
+        </div>
+      </form>
+    </div>
+  </main>
 </body>
 </html>
