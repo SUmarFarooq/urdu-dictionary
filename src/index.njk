@@ -16,46 +16,46 @@ title: Urdu Dictionary
     .urdu { font-family: 'Noto Nastaliq Urdu', serif; }
   </style>
 </head>
-<body class="bg-gradient-to-br from-pink-50 via-blue-50 to-purple-100 min-h-screen flex flex-col items-center">
-  <header class="sticky top-0 z-10 w-full bg-white/80 backdrop-blur shadow-md py-6 mb-8">
-    <h1 class="text-5xl font-extrabold text-center text-purple-700 tracking-tight drop-shadow">Urdu Dictionary</h1>
+<body class="bg-gradient-to-br from-gray-50 via-gray-100 to-gray-200 min-h-screen flex flex-col items-center">
+  <header class="w-full bg-white/90 backdrop-blur shadow-sm py-6 mb-6">
+    <h1 class="text-3xl sm:text-4xl md:text-5xl font-extrabold text-center text-gray-800 tracking-tight">Urdu Dictionary</h1>
   </header>
-  <main class="w-full max-w-5xl flex-1 flex flex-col items-center px-4">
-    <div class="w-full bg-white/90 shadow-2xl rounded-3xl p-8 mb-8 border border-purple-100">
-      <table class="min-w-full table-auto rounded-xl overflow-hidden">
+  <main class="w-full flex-1 flex flex-col items-center px-2 sm:px-4">
+    <div class="w-full max-w-3xl mx-auto bg-white shadow-lg rounded-2xl p-4 sm:p-8 mb-6 border border-gray-100">
+      <table class="w-full table-auto rounded-xl overflow-hidden text-center">
         <thead>
-          <tr class="bg-gradient-to-r from-blue-200 to-pink-200 text-purple-900">
-            <th class="px-6 py-4 text-left text-lg font-bold">Romanized</th>
-            <th class="px-6 py-4 text-left text-lg font-bold">Urdu</th>
-            <th class="px-6 py-4 text-left text-lg font-bold">Definition</th>
-            <th class="px-6 py-4 text-left text-lg font-bold">Usage</th>
-            <th class="px-6 py-4 text-left text-lg font-bold">Related Words</th>
+          <tr class="bg-gray-100 text-gray-700">
+            <th class="px-2 sm:px-4 py-3 text-center text-base sm:text-lg font-semibold">Romanized</th>
+            <th class="px-2 sm:px-4 py-3 text-center text-base sm:text-lg font-semibold">Urdu</th>
+            <th class="px-2 sm:px-4 py-3 text-center text-base sm:text-lg font-semibold">Definition</th>
+            <th class="px-2 sm:px-4 py-3 text-center text-base sm:text-lg font-semibold">Usage</th>
+            <th class="px-2 sm:px-4 py-3 text-center text-base sm:text-lg font-semibold">Related Words</th>
           </tr>
         </thead>
         <tbody>
           {% for word in words %}
-          <tr class="{% if loop.index0 % 2 == 0 %}bg-purple-50/40{% else %}bg-white{% endif %} border-b last:border-0 hover:bg-pink-50 transition">
-            <td class="px-6 py-4 text-base font-medium">{{ word.romanized }}</td>
-            <td class="px-6 py-4 text-2xl urdu">{{ word.urdu }}</td>
-            <td class="px-6 py-4">{{ word.definition }}</td>
-            <td class="px-6 py-4 text-gray-700 italic">{{ word.usage }}</td>
-            <td class="px-6 py-4">
+          <tr class="{% if loop.index0 % 2 == 0 %}bg-gray-50{% else %}bg-white{% endif %} border-b last:border-0 hover:bg-gray-100 transition">
+            <td class="px-2 sm:px-4 py-3 text-center align-middle font-medium text-gray-900">{{ word.romanized }}</td>
+            <td class="px-2 sm:px-4 py-3 text-center align-middle urdu text-2xl text-gray-900">{{ word.urdu }}</td>
+            <td class="px-2 sm:px-4 py-3 text-center align-middle text-gray-700">{{ word.definition }}</td>
+            <td class="px-2 sm:px-4 py-3 text-center align-middle text-gray-500 italic">{{ word.usage }}</td>
+            <td class="px-2 sm:px-4 py-3 text-center align-middle">
               {% for rel in word.related %}
-                <span class="inline-block bg-gradient-to-r from-purple-200 to-pink-200 text-purple-800 rounded-full px-3 py-1 text-sm font-semibold mr-2 mb-1 shadow hover:scale-105 transition-transform cursor-pointer">{{ rel }}</span>
+                <span class="inline-block bg-gray-200 text-gray-700 rounded-full px-3 py-1 text-xs sm:text-sm font-medium mr-1 mb-1 hover:bg-gray-300 transition cursor-pointer">{{ rel }}</span>
               {% endfor %}
             </td>
           </tr>
           {% endfor %}
         </tbody>
       </table>
-      <div class="mt-10 text-right">
-        <a href="/add/" class="inline-flex items-center gap-2 bg-gradient-to-r from-pink-500 to-purple-600 text-white px-6 py-3 rounded-xl shadow-lg hover:from-purple-600 hover:to-pink-500 hover:scale-105 transition-transform font-bold text-lg">
-          <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4" /></svg>
-          Add a New Word
-        </a>
-      </div>
+    </div>
+    <div class="w-full max-w-3xl mx-auto flex justify-center mb-8">
+      <a href="/add/" class="inline-flex items-center gap-2 bg-gray-800 text-white px-5 py-2 rounded-lg shadow hover:bg-gray-700 transition font-semibold text-base">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4" /></svg>
+        Add a New Word
+      </a>
     </div>
   </main>
-  <footer class="mt-8 mb-4 text-gray-400 text-sm">&copy; 2024 Simple Urdu Dictionary</footer>
+  <footer class="mt-auto mb-4 text-gray-400 text-xs text-center">&copy; 2024 Simple Urdu Dictionary</footer>
 </body>
 </html>

@@ -9,13 +9,13 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Subtle shadow for table and cards */
 table, .rounded-3xl, .rounded-2xl {
-  box-shadow: 0 4px 32px 0 rgba(80, 60, 120, 0.10);
+  box-shadow: 0 2px 12px 0 rgba(80, 80, 80, 0.07);
   transition: box-shadow 0.3s;
 }
 
 /* Responsive tweaks */
 @media (max-width: 640px) {
-  .rounded-3xl, .rounded-2xl, .p-8 {
+  .rounded-3xl, .rounded-2xl, .p-8, .p-4 {
     border-radius: 1rem;
     padding: 1.25rem;
   }
