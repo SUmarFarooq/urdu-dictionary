@@ -1,23 +1,2151 @@
 [
   {
-    "romanized": "dost",
-    "urdu": "دوست",
-    "definition": "Friend",
-    "usage": "Woh mera dost hai. (He is my friend.)",
-    "related": ["yaar", "saathi"]
+    "romanized": "Shaanth",
+    "urdu": "شَانت",
+    "definition": "Quiet, at peace",
+    "usage": "Woh shaanth baitha tha. (He was sitting quietly.)",
+    "related": ["pur-sakoon", "sukoon"]
   },
   {
-    "romanized": "pyaar",
-    "urdu": "پیار",
-    "definition": "Love",
-    "usage": "Usne apne maa baap se pyaar kiya. (He loved his parents.)",
-    "related": ["mohabbat", "ishq"]
+    "romanized": "Daana",
+    "urdu": "دانا",
+    "definition": "Wise, intelligent (Jiske paas aql hai)",
+    "usage": "Woh ek daana insaan hai. (He is a wise person.)",
+    "related": ["aqalmand", "hoshyar"]
   },
   {
-    "romanized": "kitab",
-    "urdu": "کتاب",
-    "definition": "Book",
-    "usage": "Mujhe kitab parhna pasand hai. (I like to read books.)",
-    "related": ["daftar", "risala"]
+    "romanized": "Naadaan",
+    "urdu": "نادان",
+    "definition": "Naive, foolish",
+    "usage": "Woh abhi naadaan hai. (He is still naive.)",
+    "related": ["bewaquf", "nadaani"]
+  },
+  {
+    "romanized": "Dhakoslaa",
+    "urdu": "دھکوسلا",
+    "definition": "Deception, pretense",
+    "usage": "Yeh sab dhakoslaa hai. (This is all deception.)",
+    "related": ["fareb", "dhokaa"]
+  },
+  {
+    "romanized": "Azmaai",
+    "urdu": "آزمائی",
+    "definition": "To have tried/experienced (used in the context of a home remedy)",
+    "usage": "Maine yeh nuskha azmaya hai. (I have tried this remedy.)",
+    "related": ["tajurbaa", "parkhna"]
+  },
+  {
+    "romanized": "Kaarkardegee",
+    "urdu": "کارکردگی",
+    "definition": "Performance",
+    "usage": "Uski kaarkardegee achi hai. (His performance is good.)",
+    "related": ["adaaigi", "amal"]
+  },
+  {
+    "romanized": "Phurthee",
+    "urdu": "پھرتی",
+    "definition": "Quickness, agility (jaldi)",
+    "usage": "Usne phurthee se kaam kiya. (He worked with agility.)",
+    "related": ["tezi", "chusti"]
+  },
+  {
+    "romanized": "Bedaar",
+    "urdu": "بیدار",
+    "definition": "Awake (jaagna)",
+    "usage": "Woh bedaar ho gaya. (He woke up.)",
+    "related": ["jagta", "hoshyaar"]
+  },
+  {
+    "romanized": "Aziyat",
+    "urdu": "اذیت",
+    "definition": "Suffering, torment (museebat)",
+    "usage": "Usne bahut aziyat uthai. (He suffered a lot of torment.)",
+    "related": ["takleef", "dard"]
+  },
+  {
+    "romanized": "Jamaiyyaan",
+    "urdu": "جمائیاں",
+    "definition": "Yawns (plural of jamaiyyn)",
+    "usage": "Mujhe jamaiyyaan aa rahi hain. (I am yawning.)",
+    "related": ["angrai", "ughna"]
+  },
+  {
+    "romanized": "Ukaiyyan",
+    "urdu": "اکائیاں",
+    "definition": "Gags, gagging",
+    "usage": "Use ukaiyyan aa rahi thi. (He was gagging.)",
+    "related": ["matli", "ultiyan"]
+  },
+  {
+    "romanized": "Aaqaa",
+    "urdu": "آقا",
+    "definition": "King, master",
+    "usage": "Woh hamara aaqaa hai. (He is our master.)",
+    "related": ["badshah", "malik"]
+  },
+  {
+    "romanized": "Armaan",
+    "urdu": "ارمان",
+    "definition": "Desire, longing",
+    "usage": "Uska yeh armaan hai. (This is his desire.)",
+    "related": ["khwahish", "aarzoo"]
+  },
+  {
+    "romanized": "Pachtaana",
+    "urdu": "پچھتانا",
+    "definition": "To regret",
+    "usage": "Usse apne faisle par pachtaana pada. (He had to regret his decision.)",
+    "related": ["afsos karna", "nadamat"]
+  },
+  {
+    "romanized": "Hifazat",
+    "urdu": "حفاظت",
+    "definition": "Protection",
+    "usage": "Apni cheezon ki hifazat karo. (Protect your belongings.)",
+    "related": ["nigehbani", "bachao"]
+  },
+  {
+    "romanized": "Nazuk",
+    "urdu": "نازک",
+    "definition": "Tender, fragile",
+    "usage": "Yeh bahut nazuk cheez hai. (This is a very fragile thing.)",
+    "related": ["nafees", "kamzor"]
+  },
+  {
+    "romanized": "Rozgaar",
+    "urdu": "روزگار",
+    "definition": "Employment, means of earning a living",
+    "usage": "Usse achha rozgaar mil gaya. (He found good employment.)",
+    "related": ["mulazmat", "pesha"]
+  },
+  {
+    "romanized": "Suboot",
+    "urdu": "ثبوت",
+    "definition": "Proof, evidence",
+    "usage": "Kya tumhare paas koi suboot hai? (Do you have any proof?)",
+    "related": ["daleel", "gawahi"]
+  },
+  {
+    "romanized": "Saabit",
+    "urdu": "ثابت",
+    "definition": "Whole, proven",
+    "usage": "Yeh baat saabit ho gayi. (This matter has been proven.)",
+    "related": ["mukammal", "pakka"]
+  },
+  {
+    "romanized": "Ilzaam",
+    "urdu": "الزام",
+    "definition": "Allegation, accusation",
+    "usage": "Us par chori ka ilzaam hai. (He is accused of theft.)",
+    "related": ["tohmat", "gunah"]
+  },
+  {
+    "romanized": "Achaanak",
+    "urdu": "اچانک",
+    "definition": "Sudden, unexpectedly",
+    "usage": "Woh achaanak aa gaya. (He came suddenly.)",
+    "related": ["naagahaani", "yakayak"]
+  },
+  {
+    "romanized": "Janam",
+    "urdu": "جنم",
+    "definition": "1. Birthday (Janam ka din) 2. From time immemorial (Janam Janam ka saath)",
+    "usage": "Aaj mera janam din hai. (Today is my birthday.) / Hamara janam janam ka saath hai. (We have been together since time immemorial.)",
+    "related": ["paidaish", "zindagi"]
+  },
+  {
+    "romanized": "Arz",
+    "urdu": "عرض",
+    "definition": "Application, supplication, request",
+    "usage": "Maine apni arz pesh ki. (I presented my application.)",
+    "related": ["darkhaast", "iltija"]
+  },
+  {
+    "romanized": "Umeed",
+    "urdu": "امید",
+    "definition": "Hope",
+    "usage": "Mujhe tumse bahut umeed hai. (I have a lot of hope in you.)",
+    "related": ["aasra", "twaqqo"]
+  },
+  {
+    "romanized": "Qaidiyon",
+    "urdu": "قیدیوں",
+    "definition": "Prisoners (plural)",
+    "usage": "Qaidiyon ko riha kar diya gaya. (The prisoners were released.)",
+    "related": ["aseer", "bandi"]
+  },
+  {
+    "romanized": "Taqdeer",
+    "urdu": "تقدیر",
+    "definition": "Fate, destiny",
+    "usage": "Yeh meri taqdeer mein tha. (This was in my destiny.)",
+    "related": ["qismat", "naseeb"]
+  },
+  {
+    "romanized": "Mizaaj",
+    "urdu": "مزاج",
+    "definition": "Temperament, mood",
+    "usage": "Uska mizaaj achha nahin hai. (His mood is not good.)",
+    "related": ["tabiyat", "rawaiyya"]
+  },
+  {
+    "romanized": "Rasm",
+    "urdu": "رسم",
+    "definition": "Tradition, ritual",
+    "usage": "Yeh hamari purani rasm hai. (This is our old tradition.)",
+    "related": ["riwaj", "rewaj"]
+  },
+  {
+    "romanized": "Afsaana",
+    "urdu": "افسانہ",
+    "definition": "Novel, generally a romantic novel",
+    "usage": "Usne ek khoobsurat afsaana likha. (He wrote a beautiful novel.)",
+    "related": ["dastaan", "kahani"]
+  },
+  {
+    "romanized": "Andaaz",
+    "urdu": "انداز",
+    "definition": "Style, manner",
+    "usage": "Uska bolne ka andaaz nirala hai. (His speaking style is unique.)",
+    "related": ["tarz", "dhang"]
+  },
+  {
+    "romanized": "Intihaa",
+    "urdu": "انتہا",
+    "definition": "Limit, extreme",
+    "usage": "Uski zulm ki intihaa nahin. (There is no limit to his cruelty.)",
+    "related": ["had", "aakhri"]
+  },
+  {
+    "romanized": "Had",
+    "urdu": "حد",
+    "definition": "Limit, boundary",
+    "usage": "Apni had mein raho. (Stay within your limits.)",
+    "related": ["intihaa", "sarhad"]
+  },
+  {
+    "romanized": "Dhalaan",
+    "urdu": "ڈھلان",
+    "definition": "Slope, decline",
+    "usage": "Pahadi ki dhalaan teekhi hai. (The slope of the hill is steep.)",
+    "related": ["utrai", "nichaai"]
+  },
+  {
+    "romanized": "Mughaalta",
+    "urdu": "مغالطہ",
+    "definition": "Misconception, misunderstanding, wrongdoing",
+    "usage": "Tumhe koi mughaalta hua hai. (You have had a misunderstanding.)",
+    "related": ["ghalatfehmi", "dhoka"]
+  },
+  {
+    "romanized": "Suljava",
+    "urdu": "سلجھاوا",
+    "definition": "Easygoing, someone who has their act together",
+    "usage": "Woh ek suljava insaan hai. (He is an easygoing person.)",
+    "related": ["munazzam", "sahaj"]
+  },
+  {
+    "romanized": "Purkhuloos",
+    "urdu": "پرخلوص",
+    "definition": "Sincere, heartfelt",
+    "usage": "Usne purkhuloos tareeqe se baat ki. (He spoke sincerely.)",
+    "related": ["sachcha", "mukhlis"]
+  },
+  {
+    "romanized": "Darguzar",
+    "urdu": "درگزر",
+    "definition": "Forgiveness (acting on the quality of forgiveness, unlike maafi which is the action)",
+    "usage": "Usne meri galtiyon ko darguzar kiya. (He forgave my mistakes.)",
+    "related": ["maafi", "muafi"]
+  },
+  {
+    "romanized": "Goshvaarein",
+    "urdu": "گوشوارے",
+    "definition": "Tax tables, detailed accounts",
+    "usage": "Apne goshvaarein tayyar kar lo. (Prepare your detailed accounts.)",
+    "related": ["hisab", "daftar"]
+  },
+  {
+    "romanized": "Ghaneemat",
+    "urdu": "غنیمت",
+    "definition": "Enough, fortunate, a blessing (implies something is good enough given the circumstances)",
+    "usage": "Jo mila woh ghaneemat hai. (What I got is enough/a blessing.)",
+    "related": ["kaafi", "khushqismati"]
+  },
+  {
+    "romanized": "Mazeed",
+    "urdu": "مزید",
+    "definition": "Extra, more",
+    "usage": "Mujhe mazeed waqt chahiye. (I need more time.)",
+    "related": ["aur", "zyada"]
+  },
+  {
+    "romanized": "Shuraafa",
+    "urdu": "شرفاء",
+    "definition": "Gentlemen, noble people (plural of sharif)",
+    "usage": "Shuraafa ki sohbat ikhtiyar karo. (Keep company with gentlemen.)",
+    "related": ["shareef", "buzurg"]
+  },
+  {
+    "romanized": "Qabahat",
+    "urdu": "قباحت",
+    "definition": "Restriction, hindrance, defect",
+    "usage": "Is mein koi qabahat nahin hai. (There is no problem in this.)",
+    "related": ["rukawat", "nuksan"]
+  },
+  {
+    "romanized": "Muzaiqa",
+    "urdu": "مضائقہ",
+    "definition": "Restriction, hindrance, objection",
+    "usage": "Koi muzaiqa nahin. (No objection/no problem.)",
+    "related": ["aitraz", "bandish"]
+  },
+  {
+    "romanized": "Varghalana",
+    "urdu": "ورغلانا",
+    "definition": "To incite, mislead, instigate",
+    "usage": "Usne use varghalaya. (He incited him.)",
+    "related": ["behkana", "uksaana"]
+  },
+  {
+    "romanized": "Haazmein",
+    "urdu": "ہاضمے",
+    "definition": "Digestion (plural, though often used for singular sense)",
+    "usage": "Achhe haazmein ke liye pani piyo. (Drink water for good digestion.)",
+    "related": ["hazma", "pachana"]
+  },
+  {
+    "romanized": "Turshaa",
+    "urdu": "ترشا",
+    "definition": "Acid, sourness",
+    "usage": "Yeh phal turshaa hai. (This fruit is sour.)",
+    "related": ["khatta", "tezab"]
+  },
+  {
+    "romanized": "Ghol",
+    "urdu": "گھول",
+    "definition": "Mixing, solution, mixture",
+    "usage": "Pani mein namak ghol do. (Dissolve salt in water.)",
+    "related": ["amezish", "hal"]
+  },
+  {
+    "romanized": "Khosh rosh",
+    "urdu": "خوش روش",
+    "definition": "Unknown",
+    "usage": "Unknown",
+    "related": ["Unknown"]
+  },
+  {
+    "romanized": "Rosh ghosh",
+    "urdu": "روش غوش",
+    "definition": "Unknown",
+    "usage": "Unknown",
+    "related": ["Unknown"]
+  },
+  {
+    "romanized": "Maqbuza",
+    "urdu": "مقبوضہ",
+    "definition": "Occupied, possessed",
+    "usage": "Maqbuza ilaqa. (Occupied territory.)",
+    "related": ["qabza", "ghaira hua"]
+  },
+  {
+    "romanized": "Ishtiaq",
+    "urdu": "اشتیاق",
+    "definition": "Longing, eagerness (shauq)",
+    "usage": "Mujhe tumse milne ka ishtiaq hai. (I am eager to meet you.)",
+    "related": ["shauq", "bechaini"]
+  },
+  {
+    "romanized": "Shaamat",
+    "urdu": "شامت",
+    "definition": "Trouble, misfortune, bad luck",
+    "usage": "Uski shaamat aa gayi. (His misfortune came.)",
+    "related": ["musibat", "badqismati"]
+  },
+  {
+    "romanized": "Raan",
+    "urdu": "ران",
+    "definition": "Leg/thigh",
+    "usage": "Uski raan mein dard hai. (He has pain in his thigh.)",
+    "related": ["tang", "paaon"]
+  },
+  {
+    "romanized": "Naqsha",
+    "urdu": "نقشہ",
+    "definition": "Map, diagram, plan",
+    "usage": "Mujhe shahar ka naqsha do. (Give me the map of the city.)",
+    "related": ["khaka", "manzar"]
+  },
+  {
+    "romanized": "Mazaar",
+    "urdu": "مزار",
+    "definition": "Tomb, shrine",
+    "usage": "Woh mazaar par gaya. (He went to the shrine.)",
+    "related": ["roza", "maqbara"]
+  },
+  {
+    "romanized": "Darinda sifat",
+    "urdu": "درندہ صفت",
+    "definition": "Beastly, ferocious, savage (having the nature of a beast)",
+    "usage": "Woh darinda sifat insaan hai. (He is a beastly person.)",
+    "related": ["wehshi", "zalim"]
+  },
+  {
+    "romanized": "Tasalli",
+    "urdu": "تسلی",
+    "definition": "Consolation, satisfaction (itminaan)",
+    "usage": "Usne mujhe tasalli di. (He consoled me.)",
+    "related": ["sukun", "dhairaj"]
+  },
+  {
+    "romanized": "Chamaar",
+    "urdu": "چمار",
+    "definition": "Cobbler (traditional caste-based occupation)",
+    "usage": "Woh chamaar hai. (He is a cobbler.)",
+    "related": ["mochi", "zaat"]
+  },
+  {
+    "romanized": "Zaat",
+    "urdu": "ذات",
+    "definition": "Caste, lineage, family trade/business",
+    "usage": "Uski zaat kya hai? (What is his caste?)",
+    "related": ["biradri", "nasl"]
+  },
+  {
+    "romanized": "Chaun",
+    "urdu": "چھاؤں",
+    "definition": "Shade, shadow (saayaa)",
+    "usage": "Ped ki chaun mein baitho. (Sit in the shade of the tree.)",
+    "related": ["saya", "dhup"]
+  },
+  {
+    "romanized": "Sahaara",
+    "urdu": "سہارا",
+    "definition": "Support, help",
+    "usage": "Mujhe tumhare sahaare ki zarurat hai. (I need your support.)",
+    "related": ["madad", "pushtpanaahi"]
+  },
+  {
+    "romanized": "Darkhaast",
+    "urdu": "درخواست",
+    "definition": "Application, request",
+    "usage": "Usne naukri ke liye darkhaast di. (He submitted an application for the job.)",
+    "related": ["arz", "iltija"]
+  },
+  {
+    "romanized": "Pathreeli",
+    "urdu": "پتھریلی",
+    "definition": "Hardened, rocky",
+    "usage": "Yeh zameen pathreeli hai. (This land is rocky.)",
+    "related": ["sakht", "sangeen"]
+  },
+  {
+    "romanized": "Sangemarmar",
+    "urdu": "سنگ مرمر",
+    "definition": "White marble",
+    "usage": "Taj Mahal sangemarmar ka bana hai. (The Taj Mahal is made of marble.)",
+    "related": ["patthar", "marmar"]
+  },
+  {
+    "romanized": "Sang",
+    "urdu": "سنگ",
+    "definition": "Rock, or together (with)",
+    "usage": "Yeh sang-e-marmar hai. (This is marble.) / Hum sab sang chalen ge. (We will all go together.)",
+    "related": ["patthar", "saath"]
+  },
+  {
+    "romanized": "Kaarna",
+    "urdu": "کڑھنا",
+    "definition": "Embroidery, to embroider",
+    "usage": "Usne kapde par kaarna kiya. (She embroidered on the cloth.)",
+    "related": ["kadhaai", "bunna"]
+  },
+  {
+    "romanized": "Taazgi",
+    "urdu": "تازگی",
+    "definition": "Freshness, liveliness",
+    "usage": "Subah ki hawa mein taazgi hai. (There is freshness in the morning air.)",
+    "related": ["taraawat", "hara bhara"]
+  },
+  {
+    "romanized": "Shabaahat",
+    "urdu": "شباہت",
+    "definition": "Similarity, resemblance",
+    "usage": "Unmein gazab ki shabaahat hai. (There is a striking resemblance between them.)",
+    "related": ["mushabehat", "yaksaaniyat"]
+  },
+  {
+    "romanized": "Chatt",
+    "urdu": "چھٹ",
+    "definition": "To part (clouds parting)",
+    "usage": "Baadal chatt gaye. (The clouds parted.)",
+    "related": ["khulna", "hatna"]
+  },
+  {
+    "romanized": "Talay",
+    "urdu": "تلے",
+    "definition": "Under (sophisticated/poetic usage)",
+    "usage": "Darwaaze ke talay. (Under the door.)",
+    "related": ["neeche", "tale"]
+  },
+  {
+    "romanized": "Jhijhack",
+    "urdu": "جھجک",
+    "definition": "Reluctance, hesitation",
+    "usage": "Bina kisi jhijhack ke baat karo. (Speak without any hesitation.)",
+    "related": ["hichkichahat", "sharm"]
+  },
+  {
+    "romanized": "Himaakhat",
+    "urdu": "حماقت",
+    "definition": "Stupidity (stronger than bewaqufi)",
+    "usage": "Yeh uski himaakhat thi. (This was his stupidity.)",
+    "related": ["bewaqufi", "nadaani"]
+  },
+  {
+    "romanized": "Ahmaq",
+    "urdu": "احمق",
+    "definition": "Consistently foolish, idiot",
+    "usage": "Woh ek ahmaq insaan hai. (He is a foolish person.)",
+    "related": ["bewaquf", "gaddar"]
+  },
+  {
+    "romanized": "Zang",
+    "urdu": "زنگ",
+    "definition": "Rust (noun)",
+    "usage": "Lohe par zang lag gaya. (Rust appeared on the iron.)",
+    "related": ["kat", "khor"]
+  },
+  {
+    "romanized": "Saudaa",
+    "urdu": "سودا",
+    "definition": "Negotiation, deal, bargain",
+    "usage": "Unka saudaa pakka ho gaya. (Their deal was finalized.)",
+    "related": ["len den", "karobar"]
+  },
+  {
+    "romanized": "Sifarish",
+    "urdu": "سفارش",
+    "definition": "Recommendation, nepotism, strong request",
+    "usage": "Usse sifarish se naukri mili. (He got the job through recommendation/nepotism.)",
+    "related": ["vasila", "farz"]
+  },
+  {
+    "romanized": "Nisbatan/banizbat",
+    "urdu": "نسبتاً/بنسبت",
+    "definition": "In comparison to, relatively",
+    "usage": "Woh nisbatan behtar hai. (He is relatively better.)",
+    "related": ["muqabale mein", "tulna"]
+  },
+  {
+    "romanized": "Qad",
+    "urdu": "قد",
+    "definition": "Height, stature",
+    "usage": "Uska qad lamba hai. (His height is tall.)",
+    "related": ["uchaai", "qadd"]
+  },
+  {
+    "romanized": "Silsilaa",
+    "urdu": "سلسلہ",
+    "definition": "Continuation (e.g., studies), connection, chain",
+    "usage": "Taleem ka silsilaa jari hai. (The continuation of education is ongoing.)",
+    "related": ["rabt", "zanjeer"]
+  },
+  {
+    "romanized": "Sipaahi",
+    "urdu": "سپاہی",
+    "definition": "Soldier",
+    "usage": "Ek bahadur sipaahi. (A brave soldier.)",
+    "related": ["fauji", "lashkari"]
+  },
+  {
+    "romanized": "Bahaana",
+    "urdu": "بہانہ",
+    "definition": "Excuse, pretext",
+    "usage": "Bahaane mat banao. (Don't make excuses.)",
+    "related": ["uzr", "tal matol"]
+  },
+  {
+    "romanized": "Nisaar",
+    "urdu": "نثار",
+    "definition": "Sacrifice, offering (qurbaani)",
+    "usage": "Apni jaan nisaar kar di. (He sacrificed his life.)",
+    "related": ["qurbaani", "fida"]
+  },
+  {
+    "romanized": "Purasraar",
+    "urdu": "پراسرار",
+    "definition": "Mysterious, full of mysteries",
+    "usage": "Yeh ek purasraar mamla hai. (This is a mysterious matter.)",
+    "related": ["raazdaar", "ghair-maali"]
+  },
+  {
+    "romanized": "Sughar",
+    "urdu": "سگھڑ",
+    "definition": "A word used to describe a girl who's good at cooking and cleaning, capable",
+    "usage": "Woh ek sughar ladki hai. (She is a capable girl.)",
+    "related": ["salika-mand", "huner-mand"]
+  },
+  {
+    "romanized": "Puhar",
+    "urdu": "پوہڑ",
+    "definition": "Opposite of sughar; one who burns food and is bad at cleaning, unkempt",
+    "usage": "Woh bahut puhar hai. (She is very unkempt.)",
+    "related": ["laparwah", "bewaquf"]
+  },
+  {
+    "romanized": "Izhaar",
+    "urdu": "اظہار",
+    "definition": "To say/express (izhaar-e-mohabbat - expression of love)",
+    "usage": "Apne khayalat ka izhaar karo. (Express your thoughts.)",
+    "related": ["bayan karna", "dikhana"]
+  },
+  {
+    "romanized": "Zindaan",
+    "urdu": "زنداں",
+    "definition": "A prison",
+    "usage": "Use zindaan mein dal diya gaya. (He was put in prison.)",
+    "related": ["qaidkhana", "jail"]
+  },
+  {
+    "romanized": "Samdhan",
+    "urdu": "سمدھن",
+    "definition": "Relationship of some sort (mother-in-law of one's son/daughter, i.e., mother of son's wife or daughter's husband)",
+    "usage": "Meri samdhan aa rahi hain. (My samdhan is coming.)",
+    "related": ["rishta", "sasural"]
+  },
+  {
+    "romanized": "Sahoolat",
+    "urdu": "سہولت",
+    "definition": "Ease, convenience, facility",
+    "usage": "Mujhe is mein sahoolat hai. (I find ease in this.)",
+    "related": ["asaani", "raahat"]
+  },
+  {
+    "romanized": "Shosha",
+    "urdu": "شوشہ",
+    "definition": "To ignite (like issuing a controversial statement), a flourish (in writing), a trick",
+    "usage": "Usne ek naya shosha chhora. (He released a new controversial statement.)",
+    "related": ["tabahi", "chalaki"]
+  },
+  {
+    "romanized": "Meizbaan",
+    "urdu": "میزبان",
+    "definition": "Host",
+    "usage": "Woh bahut achha meizbaan hai. (He is a very good host.)",
+    "related": ["mehman nawaz", "saahib-e-khaana"]
+  },
+  {
+    "romanized": "Mashkook",
+    "urdu": "مشکوک",
+    "definition": "Dubious, suspicious",
+    "usage": "Yeh mamla mashkook hai. (This matter is suspicious.)",
+    "related": ["shakki", "ghair-yaqeeni"]
+  },
+  {
+    "romanized": "Waishat",
+    "urdu": "وحشت",
+    "definition": "From the Arabic وحش, an intense form of ghabraahat (fear, dread, loneliness)",
+    "usage": "Jungle mein waishat mehsoos hui. (I felt dread in the jungle.)",
+    "related": ["ghabrahat", "khauf"]
+  },
+  {
+    "romanized": "Yakmusht",
+    "urdu": "یک مشت",
+    "definition": "All at once, in one go, lump sum",
+    "usage": "Usne paise yakmusht ada kiye. (He paid the money in a lump sum.)",
+    "related": ["ek saath", "ek baar"]
+  },
+  {
+    "romanized": "Mubayyanah",
+    "urdu": "مبینہ",
+    "definition": "Allegedly, stated, reported (stuff that people are saying but isn’t confirmed yet)",
+    "usage": "Mubayyanah tor par woh mujrim hai. (Allegedly, he is the culprit.)",
+    "related": ["bayan kardah", "afwahan"]
+  },
+  {
+    "romanized": "Naql",
+    "urdu": "نقل",
+    "definition": "Imitation, copy",
+    "usage": "Yeh tasveer naql hai. (This picture is a copy.)",
+    "related": ["copy", "naqali"]
+  },
+  {
+    "romanized": "Nakhl",
+    "urdu": "نخل",
+    "definition": "A place with water and vegetation (opposite of the desert, like a forest), palm tree",
+    "usage": "Nakhlistan (oasis) mein pani milta hai. (Water is found in an oasis.)",
+    "related": ["jungle", "ghana"]
+  },
+  {
+    "romanized": "Humdardi",
+    "urdu": "ہمدردی",
+    "definition": "Empathy/sympathy",
+    "usage": "Mujhe usse bahut humdardi hai. (I have a lot of sympathy for him.)",
+    "related": ["afsosi", "dildar"]
+  },
+  {
+    "romanized": "Begarda",
+    "urdu": "بے گلہ",
+    "definition": "Unknown (Possibly 'be-gila', meaning without complaint)",
+    "usage": "Unknown",
+    "related": ["Unknown"]
+  },
+  {
+    "romanized": "Daraaz",
+    "urdu": "دراز",
+    "definition": "Long (e.g., umar daraaz - long life)",
+    "usage": "Allah tumhe umar daraaz de. (May Allah grant you a long life.)",
+    "related": ["lamba", "taweel"]
+  },
+  {
+    "romanized": "Mushtarshka",
+    "urdu": "مشترکہ",
+    "definition": "Shared, common",
+    "usage": "Yeh hamari mushtarshka jaydad hai. (This is our shared property.)",
+    "related": ["aam", "sanjha"]
+  },
+  {
+    "romanized": "Taalu",
+    "urdu": "تالو",
+    "definition": "Roof of your mouth, palate",
+    "usage": "Mere taalu mein dard hai. (I have pain in the roof of my mouth.)",
+    "related": ["muh", "zabaan"]
+  },
+  {
+    "romanized": "Hargiz",
+    "urdu": "ہرگز",
+    "definition": "Absolutely not (used for negative emphasis), never",
+    "usage": "Main hargiz nahin jaunga. (I will absolutely not go.)",
+    "related": ["kabhi nahin", "bilkul nahin"]
+  },
+  {
+    "romanized": "Phootna",
+    "urdu": "پھوٹنا",
+    "definition": "When something becomes a bud, to burst, to erupt",
+    "usage": "Kali phoot gayi. (The bud burst open.)",
+    "related": ["khilna", "nikalna"]
+  },
+  {
+    "romanized": "Thainee",
+    "urdu": "ٹھینی",
+    "definition": "Branch, twig",
+    "usage": "Ped ki thainee toot gayi. (The branch of the tree broke.)",
+    "related": ["shaakh", "daali"]
+  },
+  {
+    "romanized": "Inkaar",
+    "urdu": "انکار",
+    "definition": "To say no, deny, refusal",
+    "usage": "Usne meri baat se inkaar kar diya. (He denied my statement.)",
+    "related": ["mana karna", "na kehna"]
+  },
+  {
+    "romanized": "Mutanjab",
+    "urdu": "متعجب",
+    "definition": "Unknown (Possibly 'muta'ajjib', meaning surprised)",
+    "usage": "Unknown",
+    "related": ["Unknown"]
+  },
+  {
+    "romanized": "Tastakhat",
+    "urdu": "دستخط",
+    "definition": "Signature",
+    "usage": "Apne dastakhat karo. (Sign here.)",
+    "related": ["signature", "dastaveez"]
+  },
+  {
+    "romanized": "Jaidaat",
+    "urdu": "جائداد",
+    "definition": "Property, estate",
+    "usage": "Uske paas bahut jaidaat hai. (He has a lot of property.)",
+    "related": ["maal", "milkiyat"]
+  },
+  {
+    "romanized": "Dalaal",
+    "urdu": "دلال",
+    "definition": "Broker, agent, middleman (can have negative connotations, e.g., pimp)",
+    "usage": "Usne dalaal ke zariye makan khareeda. (He bought the house through a broker.)",
+    "related": ["agent", "bicholiya"]
+  },
+  {
+    "romanized": "Giraftaar",
+    "urdu": "گرفتار",
+    "definition": "Arrested, apprehended",
+    "usage": "Mujrim giraftaar ho gaya. (The culprit was arrested.)",
+    "related": ["qaid", "pakra gaya"]
+  },
+  {
+    "romanized": "Tanhaa",
+    "urdu": "تنہا",
+    "definition": "Lonely, alone",
+    "usage": "Woh tanhaa rehta hai. (He lives alone.)",
+    "related": ["akele", "tanhai"]
+  },
+  {
+    "romanized": "Alaidaa",
+    "urdu": "علیحدہ",
+    "definition": "Separate, apart",
+    "usage": "Woh dono alaidaa ho gaye. (They both separated.)",
+    "related": ["juda", "alag"]
+  },
+  {
+    "romanized": "Gavaahi",
+    "urdu": "گواہی",
+    "definition": "Testimony, witness (noun)",
+    "usage": "Usne sachchi gavaahi di. (He gave true testimony.)",
+    "related": ["shahadat", "saboot"]
+  },
+  {
+    "romanized": "Namudaar",
+    "urdu": "نمودار",
+    "definition": "Appear, surface, manifest",
+    "usage": "Woh achaanak namudaar hua. (He suddenly appeared.)",
+    "related": ["zahir hona", "dikhai dena"]
+  },
+  {
+    "romanized": "Pashtaa rahi hain",
+    "urdu": "پچھتا رہی ہیں",
+    "definition": "Regretting (feminine plural)",
+    "usage": "Woh apni galti par pashtaa rahi hain. (They are regretting their mistake.)",
+    "related": ["afsos kar rahi hain", "nadamat mehsoos kar rahi hain"]
+  },
+  {
+    "romanized": "Betukein",
+    "urdu": "بے تکے",
+    "definition": "Without logic/sense; can mean inconvenient (betuke waqt) or substandard (betuke shairi)",
+    "usage": "Yeh betuke waqt hai. (This is an inconvenient time.) / Uski shairi betuke hai. (His poetry is substandard.)",
+    "related": ["ghair-maqool", "bekar"]
+  },
+  {
+    "romanized": "Baxaata",
+    "urdu": "باکساتا",
+    "definition": "Sour (baxati - feminine)",
+    "usage": "Yeh phal baxaata hai. (This fruit is sour.)",
+    "related": ["khatta", "tursh"]
+  },
+  {
+    "romanized": "Daalaaan",
+    "urdu": "دالان",
+    "definition": "Patio, verandah, hallway",
+    "usage": "Hum dalaan mein baithe the. (We were sitting in the patio.)",
+    "related": ["sehna", "baramda"]
+  },
+  {
+    "romanized": "Sehen",
+    "urdu": "صحن",
+    "definition": "Veranda, courtyard",
+    "usage": "Ghar ka bara sehen hai. (The house has a large courtyard.)",
+    "related": ["aangan", "dalaan"]
+  },
+  {
+    "romanized": "Banaavat/banaavti",
+    "urdu": "بناوٹ/بناوٹی",
+    "definition": "Fake, artificial, fabrication",
+    "usage": "Uski hansi banaavti hai. (His laughter is artificial.)",
+    "related": ["naqli", "masnooi"]
+  },
+  {
+    "romanized": "Tazaad",
+    "urdu": "تضاد",
+    "definition": "Difference, contradiction",
+    "usage": "Unki baaton mein tazaad hai. (There is a contradiction in his words.)",
+    "related": ["ikhtilaaf", "farq"]
+  },
+  {
+    "romanized": "Mashak",
+    "urdu": "مشک",
+    "definition": "Water pouch made of leather, waterskin",
+    "usage": "Usne mashak se pani piya. (He drank water from the waterskin.)",
+    "related": ["chhalni", "beg"]
+  },
+  {
+    "romanized": "Vaahiyaat",
+    "urdu": "واہیات",
+    "definition": "Nonsense, rubbish (bakwaas)",
+    "usage": "Yeh sab vaahiyaat baatein hain. (These are all nonsense talks.)",
+    "related": ["bakwas", "fazool"]
+  },
+  {
+    "romanized": "Ijaad",
+    "urdu": "ایجاد",
+    "definition": "To invent, invention",
+    "usage": "Edison ne bulb ijaad kiya. (Edison invented the bulb.)",
+    "related": ["takhleeq", "khoj"]
+  },
+  {
+    "romanized": "Khameen",
+    "urdu": "خمینہ",
+    "definition": "Unknown",
+    "usage": "Unknown",
+    "related": ["Unknown"]
+  },
+  {
+    "romanized": "Darshan",
+    "urdu": "درشن",
+    "definition": "Sight, glimpse, vision (deedaar)",
+    "usage": "Mujhe unke darshan ho gaye. (I got a glimpse of him.)",
+    "related": ["deedar", "nazar"]
+  },
+  {
+    "romanized": "Gavaahan",
+    "urdu": "گواہان",
+    "definition": "As a witness (gavaah means witness, gavaahan is more like as a witness. 'Woh gavaahan paish hua')",
+    "usage": "Woh adalat mein gavaahan paish hua. (He appeared in court as a witness.)",
+    "related": ["gawahi dena", "shahadat"]
+  },
+  {
+    "romanized": "Chaukanna",
+    "urdu": "چوکنّا",
+    "definition": "Alert, vigilant",
+    "usage": "Chaukanna raho. (Stay alert.)",
+    "related": ["hoshyar", "khabardar"]
+  },
+  {
+    "romanized": "Guzarish",
+    "urdu": "گزارش",
+    "definition": "A very humble request",
+    "usage": "Meri guzarish qubool karen. (Please accept my humble request.)",
+    "related": ["iltija", "darkhaast"]
+  },
+  {
+    "romanized": "Sifarish",
+    "urdu": "سفارش",
+    "definition": "A more forceful request, recommendation",
+    "usage": "Usne sifarish ki. (He made a recommendation/forceful request.)",
+    "related": ["tawakkul", "vasila"]
+  },
+  {
+    "romanized": "Gulkaar",
+    "urdu": "گلکار",
+    "definition": "Someone who sings, a singer",
+    "usage": "Woh ek achha gulkaar hai. (He is a good singer.)",
+    "related": ["gaane wala", "gayaak"]
+  },
+  {
+    "romanized": "Nabhaana",
+    "urdu": "نبھانا",
+    "definition": "To handle, like bardaash (to endure, to maintain a relationship)",
+    "usage": "Usne apni dosti khoob nabhaai. (He maintained his friendship well.)",
+    "related": ["nibhana", "sath dena"]
+  },
+  {
+    "romanized": "Saazish",
+    "urdu": "سازش",
+    "definition": "Conspiracy, plot",
+    "usage": "Unhone saazish ki. (They conspired.)",
+    "related": ["fitna", "shazish"]
+  },
+  {
+    "romanized": "Numaish",
+    "urdu": "نمائش",
+    "definition": "To show, in the context of to exhibit/show off, exhibition",
+    "usage": "Uski numaish dekho. (Look at his show-off.)",
+    "related": ["dikhawa", "izhaar"]
+  },
+  {
+    "romanized": "Maqsad",
+    "urdu": "مقصد",
+    "definition": "Purpose, aim",
+    "usage": "Tumhara maqsad kya hai? (What is your purpose?)",
+    "related": ["nishaana", "irada"]
+  },
+  {
+    "romanized": "Iraada",
+    "urdu": "ارادہ",
+    "definition": "Intention, plan",
+    "usage": "Mera iraada achha hai. (My intention is good.)",
+    "related": ["niyat", "azim"]
+  },
+  {
+    "romanized": "Shahpaarein",
+    "urdu": "شاہ پارے",
+    "definition": "The best part of something, masterpieces (especially of written work)",
+    "usage": "Yeh uske adab ke shahpaarein hain. (These are the masterpieces of his literature.)",
+    "related": ["umda", "behtareen"]
+  },
+  {
+    "romanized": "Carrubaar",
+    "urdu": "کاروبار",
+    "definition": "Business, trade",
+    "usage": "Uska bada carrubaar hai. (He has a big business.)",
+    "related": ["tijarat", "pesha"]
+  },
+  {
+    "romanized": "Mutaasir",
+    "urdu": "متاثر",
+    "definition": "Affected, impressed",
+    "usage": "Main uski baaton se mutaasir hua. (I was impressed by his words.)",
+    "related": ["asar andaz", "dilchasp"]
+  },
+  {
+    "romanized": "Tabsira",
+    "urdu": "تبصرہ",
+    "definition": "Comment, review, discussion (serious, analytical)",
+    "usage": "Is kitaab par tabsira karo. (Comment on this book.)",
+    "related": ["tanqeed", "ray"]
+  },
+  {
+    "romanized": "Faraar",
+    "urdu": "فرار",
+    "definition": "Escape, fled (also jailbreaked)",
+    "usage": "Mujrim jail se faraar ho gaya. (The culprit escaped from jail.)",
+    "related": ["farari", "bhagna"]
+  },
+  {
+    "romanized": "Paidaar",
+    "urdu": "پائیدار",
+    "definition": "Long-lasting, durable",
+    "usage": "Yeh rishta paidaar hai. (This relationship is long-lasting.)",
+    "related": ["mustaqil", "mazboot"]
+  },
+  {
+    "romanized": "Kheer",
+    "urdu": "کھیر",
+    "definition": "A sweet rice pudding",
+    "usage": "Ammi ne kheer banayi. (Mom made kheer.)",
+    "related": ["mithai", "meetha"]
+  },
+  {
+    "romanized": "Mukmukaa",
+    "urdu": "مک مکا",
+    "definition": "To exchange something (negative sense, like grease the palms or bribe), collusion",
+    "usage": "Unhone aapas mein mukmukaa kar liya. (They colluded with each other.)",
+    "related": ["rishwat", "sazish"]
+  },
+  {
+    "romanized": "Zada",
+    "urdu": "زدہ",
+    "definition": "Affected, struck by (suffix)",
+    "usage": "Toofan zada ilaqe. (Storm-affected areas.)",
+    "related": ["mutasir", "ghira hua"]
+  },
+  {
+    "romanized": "Lutf",
+    "urdu": "لطف",
+    "definition": "Enjoyment, pleasure",
+    "usage": "Zindagi ka lutf uthao. (Enjoy life.)",
+    "related": ["maza", "khushi"]
+  },
+  {
+    "romanized": "Lutf andoz",
+    "urdu": "لطف اندوز",
+    "definition": "Enjoyment, immersed in enjoyment",
+    "usage": "Woh lutf andoz ho raha hai. (He is enjoying himself.)",
+    "related": ["maza lena", "khush hona"]
+  },
+  {
+    "romanized": "Moaashiray",
+    "urdu": "معاشرے",
+    "definition": "Societies, cultures (plural)",
+    "usage": "Mukhtalif moaashiray. (Different societies.)",
+    "related": ["samaaj", "tehzeeb"]
+  },
+  {
+    "romanized": "Ibrat",
+    "urdu": "عبرت",
+    "definition": "To take heed of a lesson, maybe from someone else’s misfortune (used with Haasil, only for learning from misdeeds)",
+    "usage": "Uski misaal se ibrat hasil karo. (Take a lesson from his example.)",
+    "related": ["sabaq", "naseehat"]
+  },
+  {
+    "romanized": "Mafaadaat",
+    "urdu": "مفادات",
+    "definition": "Benefits, interests (plural, used in politics, not casual conversations)",
+    "usage": "Apne mafaadaat ka tahaffuz karo. (Protect your interests.)",
+    "related": ["faide", "manfaat"]
+  },
+  {
+    "romanized": "Pinjar",
+    "urdu": "پنجر",
+    "definition": "Skeleton, aka dhanchaa",
+    "usage": "Insani pinjar. (Human skeleton.)",
+    "related": ["dhancha", "haddiyan"]
+  },
+  {
+    "romanized": "Dhanchaa",
+    "urdu": "ڈھانچہ",
+    "definition": "Skeleton, but also framework, structure",
+    "usage": "Makaan ka dhanchaa. (The framework of the house.)",
+    "related": ["pinjar", "sakht"]
+  },
+  {
+    "romanized": "Numainda",
+    "urdu": "نمائندہ",
+    "definition": "Representative, delegate",
+    "usage": "Woh hamara numainda hai. (He is our representative.)",
+    "related": ["wakeel", "elchi"]
+  },
+  {
+    "romanized": "Panchar",
+    "urdu": "پنچر",
+    "definition": "Puncture",
+    "usage": "Meri cycle mein panchar ho gaya. (My bicycle got a puncture.)",
+    "related": ["cheda", "khrabi"]
+  },
+  {
+    "romanized": "Tanz",
+    "urdu": "طنز",
+    "definition": "Taunt, sarcasm, satire",
+    "usage": "Usne tanz kiya. (He taunted.)",
+    "related": ["mazak", "bad-kalami"]
+  },
+  {
+    "romanized": "Bhapolay",
+    "urdu": "بھپولے",
+    "definition": "Hollow boil, blisters (like on a human)",
+    "usage": "Uske haath par bhapolay nikal aaye. (Blisters appeared on his hand.)",
+    "related": ["chhale", "aabale"]
+  },
+  {
+    "romanized": "Lagaam",
+    "urdu": "لگام",
+    "definition": "Rein (like on a horse), bridle",
+    "usage": "Ghore ko lagaam do. (Put the reins on the horse.)",
+    "related": ["baagडोर", "qabza"]
+  },
+  {
+    "romanized": "Panaa",
+    "urdu": "پناہ",
+    "definition": "Protection, refuge",
+    "usage": "Mujhe panaa chahiye. (I need refuge.)",
+    "related": ["hifazat", "aasra"]
+  },
+  {
+    "romanized": "Khadshah",
+    "urdu": "خدشہ",
+    "definition": "Fear, apprehension, 'I've got a bad feeling about this'/unease",
+    "usage": "Mujhe khadshah hai. (I have a bad feeling.)",
+    "related": ["andesha", "khauf"]
+  },
+  {
+    "romanized": "Andeyshah",
+    "urdu": "اندیشہ",
+    "definition": "Fear, apprehension, concern",
+    "usage": "Koi andeyshah nahin hai. (There is no apprehension.)",
+    "related": ["khadshah", "fikr"]
+  },
+  {
+    "romanized": "Pehldooj",
+    "urdu": "پہل دوج",
+    "definition": "Hopscotch (a game)",
+    "usage": "Bache pehldooj khel rahe hain. (Children are playing hopscotch.)",
+    "related": ["khel", "godi"]
+  },
+  {
+    "romanized": "Anhoni Ghatna",
+    "urdu": "انہونی گھٹنا",
+    "definition": "Unlikely event, impossible event (Anhoni is like not possible, (namumkin) but for not physical things)",
+    "usage": "Yeh ek anhoni ghatna hai. (This is an impossible event.)",
+    "related": ["namumkin", "hairat angez"]
+  },
+  {
+    "romanized": "Anokhi",
+    "urdu": "انوکھی",
+    "definition": "Unique, unusual",
+    "usage": "Yeh ek anokhi baat hai. (This is a unique thing.)",
+    "related": ["nirala", "ajab"]
+  },
+  {
+    "romanized": "Anardhi",
+    "urdu": "اناردی",
+    "definition": "Amateur, inexperienced",
+    "usage": "Woh abhi anardhi hai. (He is still an amateur.)",
+    "related": ["najarba", "kacha"]
+  },
+  {
+    "romanized": "Gustakhana/Gustakhi",
+    "urdu": "گستاخانہ/گستاخی",
+    "definition": "Disobedient, arrogant, disrespectful (especially towards elders)",
+    "usage": "Usne gustakhana andaaz mein baat ki. (He spoke in a disrespectful manner.)",
+    "related": ["be adabi", "gustakhi"]
+  },
+  {
+    "romanized": "Khoncha",
+    "urdu": "کھونچا",
+    "definition": "A rip (like in clothing) usually for a specific reason, a fold, a corner",
+    "usage": "Uske kapde mein khoncha hai. (There is a rip in his clothes.)",
+    "related": ["phata", "kona"]
+  },
+  {
+    "romanized": "Dehleez",
+    "urdu": "دہلیز",
+    "definition": "Threshold (sometimes used to describe the little ridge beneath the door to a house)",
+    "usage": "Ghar ki dehleez. (The threshold of the house.)",
+    "related": ["chaukhat", "darwaza"]
+  },
+  {
+    "romanized": "Paar",
+    "urdu": "پار",
+    "definition": "To overcome, or to cross (a house's dehleez)",
+    "usage": "Darya paar kar gaya. (He crossed the river.) / Mushkilaat paar karo. (Overcome difficulties.)",
+    "related": ["uboor karna", "qabza karna"]
+  },
+  {
+    "romanized": "Tan",
+    "urdu": "تن",
+    "definition": "Body, just like jism",
+    "usage": "Sehatmand tan. (Healthy body.)",
+    "related": ["jism", "badan"]
+  },
+  {
+    "romanized": "Aasuda",
+    "urdu": "آسودہ",
+    "definition": "Prosperous, content (khush haal)",
+    "usage": "Woh aasuda zindagi guzar raha hai. (He is leading a prosperous life.)",
+    "related": ["khushhal", "farigh"]
+  },
+  {
+    "romanized": "Khazaana",
+    "urdu": "خزانہ",
+    "definition": "Treasure, treasury",
+    "usage": "Usne khazaana dhoond liya. (He found the treasure.)",
+    "related": ["daulat", "maal"]
+  },
+  {
+    "romanized": "Qaafilat",
+    "urdu": "قافلت",
+    "definition": "Journey (in the sense of a caravan/procession), negligence (less common usage)",
+    "usage": "Qaafilat rawana ho gayi. (The caravan departed.)",
+    "related": ["safar", "kafla"]
+  },
+  {
+    "romanized": "Chaman",
+    "urdu": "چمن",
+    "definition": "Garden, aka baagh (no difference in usage)",
+    "usage": "Phoolon se bhara chaman. (A garden full of flowers.)",
+    "related": ["bagh", "gulistan"]
+  },
+  {
+    "romanized": "Kehkashaan",
+    "urdu": "کہکشاں",
+    "definition": "Galaxy, universe",
+    "usage": "Hamari kehkashaan. (Our galaxy.)",
+    "related": ["falak", "sitare"]
+  },
+  {
+    "romanized": "Behrobar",
+    "urdu": "بحر و بر",
+    "definition": "Land and sea (used together)",
+    "usage": "Unknown",
+    "related": ["Unknown"]
+  },
+  {
+    "romanized": "Chutkalaa",
+    "urdu": "چٹکلا",
+    "definition": "Something small, a joke, an anecdote",
+    "usage": "Usne ek chutkalaa sunaya. (He told a joke.)",
+    "related": ["latifa", "chhota"]
+  },
+  {
+    "romanized": "Dheet",
+    "urdu": "ڈھیٹ",
+    "definition": "Stubborn, impudent (sharaarti - mischievous, someone who does something despite you telling them not to)",
+    "usage": "Woh bahut dheet hai. (He is very stubborn.)",
+    "related": ["hatheela", "sar-kash"]
+  },
+  {
+    "romanized": "Tasfiyah",
+    "urdu": "تصفیہ",
+    "definition": "Settlement (especially after a long argument), resolution (faisla)",
+    "usage": "Jhagre ka tasfiyah ho gaya. (The dispute was settled.)",
+    "related": ["faisla", "hal"]
+  },
+  {
+    "romanized": "Haazirii",
+    "urdu": "حاضری",
+    "definition": "Attendance, time sheet",
+    "usage": "Apni haazirii lagao. (Mark your attendance.)",
+    "related": ["maujoodgi", "daftar"]
+  },
+  {
+    "romanized": "Aarzuu",
+    "urdu": "آرزو",
+    "definition": "Desire, longing (kwahish)",
+    "usage": "Uski aarzuu poori ho gayi. (His desire was fulfilled.)",
+    "related": ["khwahish", "arman"]
+  },
+  {
+    "romanized": "Jhumghattaa",
+    "urdu": "جھمگھٹا",
+    "definition": "Cluster, crowd ('yeh kyaa jhumghataa lagaaya hua hain' - what you say when you see a big group of people)",
+    "usage": "Wahan logon ka jhumghattaa tha. (There was a crowd of people there.)",
+    "related": ["bheer", "jamaao"]
+  },
+  {
+    "romanized": "Naa gahaani",
+    "urdu": "ناگہانی",
+    "definition": "Unexpected but in a bad way, sudden, unforeseen",
+    "usage": "Naa gahaani aafat aa gayi. (An unforeseen calamity befell.)",
+    "related": ["achaanak", "ghair mutawaqqo"]
+  },
+  {
+    "romanized": "Mehlkhora",
+    "urdu": "میل خورا",
+    "definition": "If it gets dirty no one would notice? (Used for describing a dark sofa)",
+    "usage": "Yeh mehlkhora rang hai. (This is a dirt-concealing color.)",
+    "related": ["Unknown"]
+  },
+  {
+    "romanized": "Paasbanh",
+    "urdu": "پاسباں",
+    "definition": "Guardian, protector (hifaazat karna)",
+    "usage": "Qoum ka paasbanh. (Guardian of the nation.)",
+    "related": ["muhafiz", "nigahban"]
+  },
+  {
+    "romanized": "Soge manaana",
+    "urdu": "سوگ منانا",
+    "definition": "To mourn, to lament",
+    "usage": "Woh apne aziz ki maut par soge mana rahe hain. (They are mourning the death of their dear one.)",
+    "related": ["gham manana", "afsos karna"]
+  },
+  {
+    "romanized": "Nibhaana",
+    "urdu": "نبھانا",
+    "definition": "To try to compromise/make things work between different words/people, to maintain",
+    "usage": "Rishta nibhaana mushkil hota hai. (Maintaining a relationship is difficult.)",
+    "related": ["poora karna", "bardasht karna"]
+  },
+  {
+    "romanized": "Taraddud",
+    "urdu": "تردد",
+    "definition": "Reluctance, hesitation (for speaking, it’s used kind of like holding your tongue), anxiety",
+    "usage": "Usse baat karne mein taraddud ho raha tha. (He was hesitant to speak.)",
+    "related": ["jijhak", "pareshaani"]
+  },
+  {
+    "romanized": "Pishori",
+    "urdu": "پیشوری",
+    "definition": "Happy (can also say Peshaawari, referring to something from Peshawar)",
+    "usage": "Woh aaj bahut pishori hai. (He is very happy today.)",
+    "related": ["khush", "masroor"]
+  },
+  {
+    "romanized": "Baghbaagh",
+    "urdu": "باغ باغ",
+    "definition": "Extremely happy, delighted (literally 'garden garden')",
+    "usage": "Khabar sun kar dil baghbaagh ho gaya. (My heart became delighted upon hearing the news.)",
+    "related": ["nihayat khush", "magan"]
+  },
+  {
+    "romanized": "Saahil e samandar",
+    "urdu": "ساحل سمندر",
+    "definition": "Beach, seashore",
+    "usage": "Hum saahil e samandar par gaye. (We went to the beach.)",
+    "related": ["kinara", "darya"]
+  },
+  {
+    "romanized": "Kunwaara",
+    "urdu": "کنوارہ",
+    "definition": "Bachelor, unmarried (noon ghunna - nasal 'n')",
+    "usage": "Woh abhi kunwaara hai. (He is still a bachelor.)",
+    "related": ["ghair shadi shuda", "akela"]
+  },
+  {
+    "romanized": "Tanziyah",
+    "urdu": "تنزیہ",
+    "definition": "Satire, sarcastic",
+    "usage": "Uska tanziyah andaaz. (His sarcastic manner.)",
+    "related": ["tanz", "sarkashi"]
+  },
+  {
+    "romanized": "Darkhwaas",
+    "urdu": "درخواست",
+    "definition": "Request, application (farmaish)",
+    "usage": "Meri darkhwaas manzoor kar li. (My request was accepted.)",
+    "related": ["iltija", "arz"]
+  },
+  {
+    "romanized": "Jhalak",
+    "urdu": "جھلک",
+    "definition": "Glimpse, flash",
+    "usage": "Ek jhalak dikhai di. (A glimpse was seen.)",
+    "related": ["nazar", "deedar"]
+  },
+  {
+    "romanized": "Jhanak",
+    "urdu": "جھنک",
+    "definition": "Hindi word, used in dance (refers to the sound of anklets or bells in dance)",
+    "usage": "Uske payal ki jhanak. (The jingle of her anklets.)",
+    "related": ["awaaz", "ghunghroo"]
+  },
+  {
+    "romanized": "Saudaagraan",
+    "urdu": "سوداگران",
+    "definition": "Merchants (plural of saudaagar)",
+    "usage": "Woh bade saudaagraan hain. (They are big merchants.)",
+    "related": ["tajir", "beopari"]
+  },
+  {
+    "romanized": "Dhund",
+    "urdu": "دھند",
+    "definition": "Fog, mist",
+    "usage": "Aaj bahut dhund hai. (It's very foggy today.)",
+    "related": ["kohra", "dhundla"]
+  },
+  {
+    "romanized": "Phokat",
+    "urdu": "فوکٹ",
+    "definition": "Free (slang-like context), gratis",
+    "usage": "Yeh cheez phokat mein mil gayi. (This thing was obtained for free.)",
+    "related": ["muft", "bila qeemat"]
+  },
+  {
+    "romanized": "Chaayii",
+    "urdu": "چھائی",
+    "definition": "Covering, spread over (e.g., dhuhd chaaiyi vi hai - fog is spread)",
+    "usage": "Puri fiza par udasi chaayii hui hai. (Sadness has spread over the entire atmosphere.)",
+    "related": ["phela hua", "dhaka hua"]
+  },
+  {
+    "romanized": "Takhallus",
+    "urdu": "تخلص",
+    "definition": "Sort of like a title, or a nickname, for poets (pen name)",
+    "usage": "Ghalib ka takhallus tha. (Ghalib was his pen name.)",
+    "related": ["shairi naam", "laqab"]
+  },
+  {
+    "romanized": "Saaduu",
+    "urdu": "سادھو",
+    "definition": "Vagabond/nomad type, holy man",
+    "usage": "Woh ek saaduu hai. (He is a holy man.)",
+    "related": ["faqeer", "darvesh"]
+  },
+  {
+    "romanized": "Tavaanai",
+    "urdu": "توانائی",
+    "definition": "Strength, energy",
+    "usage": "Usmein bahut tavaanai hai. (He has a lot of energy.)",
+    "related": ["taqat", "himmat"]
+  },
+  {
+    "romanized": "Azbar",
+    "urdu": "ازبر",
+    "definition": "By heart, committed to memory (hifz)",
+    "usage": "Mujhe yeh nazm azbar hai. (I know this poem by heart.)",
+    "related": ["hifz", "yad"]
+  },
+  {
+    "romanized": "Bakhshi",
+    "urdu": "بخشی",
+    "definition": "To spread (in an abstract sense, e.g., spread joy), granted",
+    "usage": "Khushiyan bakhshi. (He granted happiness.)",
+    "related": ["ata karna", "phailana"]
+  },
+  {
+    "romanized": "Ufaq",
+    "urdu": "افق",
+    "definition": "Horizon",
+    "usage": "Ufaq par suraj doob raha hai. (The sun is setting on the horizon.)",
+    "related": ["sira", "kenara"]
+  },
+  {
+    "romanized": "Oat",
+    "urdu": "اوٹ",
+    "definition": "Behind (like behind a tree, or behind a door), cover, shelter",
+    "usage": "Woh darakht ki oat mein chhip gaya. (He hid behind the tree.)",
+    "related": ["parda", "peechhe"]
+  },
+  {
+    "romanized": "Daryaaq",
+    "urdu": "دریاق",
+    "definition": "Solution, remedy (fikr ki daryaaq - solution to worry), antidote",
+    "usage": "Har masle ka daryaaq hota hai. (Every problem has a solution.)",
+    "related": ["ilaaj", "hal"]
+  },
+  {
+    "romanized": "Nifaasat",
+    "urdu": "نفاست",
+    "definition": "Sophistication, cleanliness, elegance (nafees - someone who’s picky about cleanliness)",
+    "usage": "Uske kaam mein nifaasat hai. (There is sophistication in his work.)",
+    "related": ["safaai", "nazakat"]
+  },
+  {
+    "romanized": "Bhoojo",
+    "urdu": "بوجھو",
+    "definition": "Guess (imperative, informal)",
+    "usage": "Bhoojo to jaanein. (Guess if you dare to know.)",
+    "related": ["andaza lagao", "pehchano"]
+  },
+  {
+    "romanized": "Beniyaaz",
+    "urdu": "بے نیاز",
+    "definition": "Carefree, independent, indifferent",
+    "usage": "Woh duniya se beniyaaz hai. (He is carefree about the world.)",
+    "related": ["laparwah", "khudmukhtar"]
+  },
+  {
+    "romanized": "Ghambhir",
+    "urdu": "گمبھیر",
+    "definition": "Complicated, serious, profound",
+    "usage": "Yeh ek ghambhir masla hai. (This is a serious problem.)",
+    "related": ["sanjeeda", "pecheeda"]
+  },
+  {
+    "romanized": "Khaalis",
+    "urdu": "خالص",
+    "definition": "Pure, unadulterated",
+    "usage": "Yeh khaalis doodh hai. (This is pure milk.)",
+    "related": ["sachcha", "asli"]
+  },
+  {
+    "romanized": "Khaak",
+    "urdu": "خاک",
+    "definition": "Soil (like dirt), dust, ashes",
+    "usage": "Zameen par khaak udi. (Dust rose from the ground.)",
+    "related": ["dhool", "mitti"]
+  },
+  {
+    "romanized": "Muzir",
+    "urdu": "مضر",
+    "definition": "Harmful (like Nukhsaande, but maybe in different contexts)",
+    "usage": "Yeh sehat ke liye muzir hai. (This is harmful for health.)",
+    "related": ["nuqsan deh", "burra"]
+  },
+  {
+    "romanized": "Aiklauthee",
+    "urdu": "اکلوتی",
+    "definition": "One and only (feminine), only child",
+    "usage": "Woh apne maa baap ki aiklauthee beti hai. (She is the only daughter of her parents.)",
+    "related": ["waahid", "tanha"]
+  },
+  {
+    "romanized": "Aiklauthaa",
+    "urdu": "اکلوتا",
+    "definition": "One and only (masculine), only child",
+    "usage": "Woh apne maa baap ka aiklauthaa beta hai. (He is the only son of his parents.)",
+    "related": ["waahid", "tanha"]
+  },
+  {
+    "romanized": "Tashnagi",
+    "urdu": "تشنگی",
+    "definition": "Thirst, longing (kami? like missing someone?)",
+    "usage": "Mujhe ilm ki tashnagi hai. (I have a thirst for knowledge.)",
+    "related": ["pyas", "bechaini"]
+  },
+  {
+    "romanized": "Rifaaqat",
+    "urdu": "رفاقت",
+    "definition": "Friendship, companionship (like dosti), company (like good company), closeness",
+    "usage": "Uski rifaaqat mein mujhe khushi milti hai. (I find happiness in his company.)",
+    "related": ["dosti", "sath"]
+  },
+  {
+    "romanized": "Fizaa",
+    "urdu": "فضا",
+    "definition": "Atmosphere, where you have no restrictions/bounds, open space",
+    "usage": "Subah ki fizaa bahut achhi hai. (The morning atmosphere is very pleasant.)",
+    "related": ["mahol", "hawa"]
+  },
+  {
+    "romanized": "Parwaaz",
+    "urdu": "پرواز",
+    "definition": "Flight, to fly/be able to fly",
+    "usage": "Parinde ki parwaaz. (The flight of the bird.)",
+    "related": ["urna", "uddaan"]
+  },
+  {
+    "romanized": "Naamaaqool",
+    "urdu": "نامعقول",
+    "definition": "Not sensible, foolish (not maqool)",
+    "usage": "Yeh naamaaqool baat hai. (This is a foolish thing to say.)",
+    "related": ["ghair maqool", "bewaqufi"]
+  },
+  {
+    "romanized": "Kharaanchi",
+    "urdu": "خزانچی",
+    "definition": "Treasurer, cashier",
+    "usage": "Woh bank ka kharaanchi hai. (He is the treasurer of the bank.)",
+    "related": ["cashier", "malik"]
+  },
+  {
+    "romanized": "Sakhee",
+    "urdu": "سخی",
+    "definition": "Generous, opposite of kanjuus (from Sakhaavat, generosity)",
+    "usage": "Woh ek sakhee insaan hai. (He is a generous person.)",
+    "related": ["fayyaz", "daryadil"]
+  },
+  {
+    "romanized": "Afsurda",
+    "urdu": "افسردہ",
+    "definition": "Sad (like udaas, but implies a deeper, more profound sadness, not used interchangeably with udaas which is less sad)",
+    "usage": "Woh aaj bahut afsurda hai. (He is very sad today.)",
+    "related": ["udaas", "ghamgeen"]
+  },
+  {
+    "romanized": "Taghaaful",
+    "urdu": "تغافل",
+    "definition": "Heedlessness, negligence, to ignore",
+    "usage": "Uski taghaaful ki wajah se nuksaan hua. (Loss occurred due to his negligence.)",
+    "related": ["ghalatfehmi", "laparwahi"]
+  },
+  {
+    "romanized": "Ghaflat",
+    "urdu": "غفلت",
+    "definition": "Heedlessness, negligence, carelessness",
+    "usage": "Apni ghaflat ki saza mili. (He got punished for his carelessness.)",
+    "related": ["laparwahi", "be-fikri"]
+  },
+  {
+    "romanized": "Saak",
+    "urdu": "ساکھ",
+    "definition": "Public image, reputation (e.g., Saaq barhqaraar rakhna - to maintain one's reputation)",
+    "usage": "Usne apni saakht kharab kar li. (He ruined his reputation.)",
+    "related": ["izzat", "naiknami"]
+  },
+  {
+    "romanized": "Savarna",
+    "urdu": "سنوارنا",
+    "definition": "To beautify, to adorn (barna savarna - getting super dressed up)",
+    "usage": "Usne apne baal savare. (She groomed her hair.)",
+    "related": ["sajana", "sanwarna"]
+  },
+  {
+    "romanized": "Sarkhaiz",
+    "urdu": "سرخیز",
+    "definition": "Fertile, productive",
+    "usage": "Yeh zameen sarkhaiz hai. (This land is fertile.)",
+    "related": ["zarqez", "upjau"]
+  },
+  {
+    "romanized": "Nausarbaaz",
+    "urdu": "نوسرباز",
+    "definition": "Swindler, con artist",
+    "usage": "Woh ek nausarbaaz hai. (He is a con artist.)",
+    "related": ["dhoke baz", "farebi"]
+  },
+  {
+    "romanized": "Laadla",
+    "urdu": "لاڈلا",
+    "definition": "Spoiled (usually for a child), pampered",
+    "usage": "Woh apne maa baap ka laadla hai. (He is his parents' spoiled child.)",
+    "related": ["pyara", "nazuk"]
+  },
+  {
+    "romanized": "Beqaraar",
+    "urdu": "بے قرار",
+    "definition": "Restless, uneasy, impatient",
+    "usage": "Woh usse milne ko beqaraar hai. (He is restless to meet her.)",
+    "related": ["bechain", "bekal"]
+  },
+  {
+    "romanized": "Barqaraar",
+    "urdu": "برقرار",
+    "definition": "Maintained, intact, stable",
+    "usage": "Dosti barqaraar rakho. (Maintain the friendship.)",
+    "related": ["qaim", "mustahkam"]
+  },
+  {
+    "romanized": "Beraghar",
+    "urdu": "بے گھر",
+    "definition": "Homeless, displaced",
+    "usage": "Unknown",
+    "related": ["Unknown"]
+  },
+  {
+    "romanized": "TaaR liya",
+    "urdu": "تاڑ لیا",
+    "definition": "They observed you and selected you to be a target? (Used in the context of people deciding who to rob?), to recognize, to understand",
+    "usage": "Choron ne usey taaR liya. (The thieves spotted him as a target.)",
+    "related": ["pehchanna", "bhampna"]
+  },
+  {
+    "romanized": "Sunsaan",
+    "urdu": "سنسان",
+    "definition": "Quiet, deserted, desolate",
+    "usage": "Yeh jagah sunsaan hai. (This place is deserted.)",
+    "related": ["khali", "tanhai"]
+  },
+  {
+    "romanized": "Amar",
+    "urdu": "امر",
+    "definition": "Immortal, permanent, eternal",
+    "usage": "Uska naam amar ho gaya. (His name became immortal.)",
+    "related": ["abadi", "dayami"]
+  },
+  {
+    "romanized": "Mayassar",
+    "urdu": "میسر",
+    "definition": "Available, accessible",
+    "usage": "Jo bhi mayassar hai. (Whatever is available.)",
+    "related": ["dastiyab", "maujood"]
+  },
+  {
+    "romanized": "Aas",
+    "urdu": "آس",
+    "definition": "Hope, wish, expectation",
+    "usage": "Mujhe tumse aas hai. (I have hope in you.)",
+    "related": ["umeed", "khwahish"]
+  },
+  {
+    "romanized": "Musalsal",
+    "urdu": "مسلسل",
+    "definition": "Continuous, continuous",
+    "usage": "Woh musalsal kaam kar raha hai. (He is working continuously.)",
+    "related": ["lagatar", "mutawatar"]
+  },
+  {
+    "romanized": "Hunur",
+    "urdu": "ہنر",
+    "definition": "Skill, art, talent (someone’s really good at something, like cooking 20 pounds of meat without burning it)",
+    "usage": "Usmein bahut hunur hai. (He has a lot of skill.)",
+    "related": ["fann", "maharat"]
+  },
+  {
+    "romanized": "Mumtaaj",
+    "urdu": "ممتاز",
+    "definition": "Excellent, distinguished, prominent",
+    "usage": "Woh ek mumtaaj shakhsiyat hai. (He is a distinguished personality.)",
+    "related": ["numayan", "afzal"]
+  },
+  {
+    "romanized": "Gilaa",
+    "urdu": "گلہ",
+    "definition": "Complaint, grievance",
+    "usage": "Mujhe tumse koi gilaa nahin. (I have no complaint against you.)",
+    "related": ["shikayat", "narazgi"]
+  },
+  {
+    "romanized": "Shaagird",
+    "urdu": "شاگرد",
+    "definition": "Student, pupil, apprentice",
+    "usage": "Woh mera shaagird hai. (He is my student.)",
+    "related": ["talib ilm", "chela"]
+  },
+  {
+    "romanized": "Khasaaraa",
+    "urdu": "خسارہ",
+    "definition": "Loss, damage (nukhsaan)",
+    "usage": "Mujhe is mein khasaaraa hua. (I incurred a loss in this.)",
+    "related": ["nuqsan", "ghata"]
+  },
+  {
+    "romanized": "Qadr",
+    "urdu": "قدر",
+    "definition": "Respect, value (e.g., baron ka qadr karna - to respect elders)",
+    "usage": "Apne ustad ki qadr karo. (Respect your teacher.)",
+    "related": ["izzat", "ehmiyat"]
+  },
+  {
+    "romanized": "Lacchaydaar",
+    "urdu": "لچھے دار",
+    "definition": "Deceitful (can also mean eloquent/flowery speech, or layered/coiled)",
+    "usage": "Uski baatein lacchaydaar hain. (His words are deceitful/flowery.)",
+    "related": ["dhoke baz", "haseen"]
+  },
+  {
+    "romanized": "Khuraak",
+    "urdu": "خوراک",
+    "definition": "Appetite, but also dosage (like of medicine), food, diet",
+    "usage": "Dawa ki khuraak. (Dosage of medicine.)",
+    "related": ["ghiza", "khoob khana"]
+  },
+  {
+    "romanized": "Pukhtaa",
+    "urdu": "پختہ",
+    "definition": "Strong, firm, mature, ripe (mazboot)",
+    "usage": "Uski soch pukhtaa hai. (His thinking is mature.)",
+    "related": ["mazboot", "pakka"]
+  },
+  {
+    "romanized": "Taarameela ka tail",
+    "urdu": "تارامیلا کا تیل",
+    "definition": "The oil of arugula seeds",
+    "usage": "Taarameela ka tail sehat ke liye achha hai. (Arugula oil is good for health.)",
+    "related": ["tel", "beej"]
+  },
+  {
+    "romanized": "Ghaddari",
+    "urdu": "غداری",
+    "definition": "Treachery, betrayal",
+    "usage": "Usne apne dost se ghaddari ki. (He betrayed his friend.)",
+    "related": ["dhoka", "bewafai"]
+  },
+  {
+    "romanized": "Chiku",
+    "urdu": "چیکو",
+    "definition": "Sapodilla (a fruit)",
+    "usage": "Mujhe chiku pasand hai. (I like sapodilla.)",
+    "related": ["phal", "safeda"]
+  },
+  {
+    "romanized": "Falsa",
+    "urdu": "فالسہ",
+    "definition": "Grewia asiatica (a small berry fruit)",
+    "usage": "Garmiyon mein falsa bahut pasand hai. (I like falsa very much in summers.)",
+    "related": ["phal", "beri"]
+  },
+  {
+    "romanized": "Mazdoori",
+    "urdu": "مزدوری",
+    "definition": "Daily labor (mazdoor is the person, mazdoori is the work, like manual labor), wages",
+    "usage": "Woh mazdoori karta hai. (He does manual labor.)",
+    "related": ["mehnat", "kamai"]
+  },
+  {
+    "romanized": "Makhdoush",
+    "urdu": "مخدوش",
+    "definition": "Unknown (Possibly 'makrooh', meaning detestable/abominable, or 'makhdoom', meaning master/served)",
+    "usage": "Unknown",
+    "related": ["Unknown"]
+  },
+  {
+    "romanized": "Afyoun",
+    "urdu": "افیون",
+    "definition": "Opium",
+    "usage": "Afyoun ek nasha hai. (Opium is an intoxicant.)",
+    "related": ["nasha", "drug"]
+  },
+  {
+    "romanized": "Parhaiz",
+    "urdu": "پرہیز",
+    "definition": "Avoiding a food for health purposes, abstinence",
+    "usage": "Doctor ne use parhaiz karne ko kaha. (The doctor told him to abstain from certain foods.)",
+    "related": ["bachna", "ijtinaab"]
+  },
+  {
+    "romanized": "Ihtijaaj",
+    "urdu": "احتجاج",
+    "definition": "Protest, objection",
+    "usage": "Logon ne ihtijaaj kiya. (People protested.)",
+    "related": ["mukhalifat", "na-pasand"]
+  },
+  {
+    "romanized": "Purwaqar",
+    "urdu": "پروقار",
+    "definition": "Having dignity, full of pride, dignified",
+    "usage": "Woh ek purwaqar shakhsiyat hai. (He is a dignified personality.)",
+    "related": ["ba-waqar", "izzatdaar"]
+  },
+  {
+    "romanized": "Waqaar",
+    "urdu": "وقار",
+    "definition": "Dignity, proudness, respect",
+    "usage": "Apna waqaar qaim rakho. (Maintain your dignity.)",
+    "related": ["izzat", "shaan"]
+  },
+  {
+    "romanized": "I'tibaar",
+    "urdu": "اعتبار",
+    "definition": "Trust, confidence (i'tibar karo - trust me)",
+    "usage": "Mujhe tum par i'tibaar hai. (I trust you.)",
+    "related": ["bharosa", "yaqeen"]
+  },
+  {
+    "romanized": "Sageen",
+    "urdu": "سنگین",
+    "definition": "Serious, grave, severe",
+    "usage": "Yeh ek sageen masla hai. (This is a serious problem.)",
+    "related": ["sakht", "bhari"]
+  },
+  {
+    "romanized": "Shaghaf",
+    "urdu": "شغف",
+    "definition": "Hobby, passion, deep interest",
+    "usage": "Use kitabein padhne ka shaghaf hai. (He has a passion for reading books.)",
+    "related": ["shauq", "dilchasp"]
+  },
+  {
+    "romanized": "Tamgha",
+    "urdu": "تمغا",
+    "definition": "Medal, badge",
+    "usage": "Use bahaduri ka tamgha mila. (He received a medal for bravery.)",
+    "related": ["in'am", "nishaan"]
+  },
+  {
+    "romanized": "Dushwaar",
+    "urdu": "دشوار",
+    "definition": "Difficult (Mushkil)",
+    "usage": "Yeh kaam bahut dushwaar hai. (This task is very difficult.)",
+    "related": ["mushkil", "kathin"]
+  },
+  {
+    "romanized": "Daryaaft",
+    "urdu": "دریافت",
+    "definition": "Inquire, discover, find out",
+    "usage": "Usne sach daryaaft kiya. (He discovered the truth.)",
+    "related": ["pata lagana", "khojna"]
+  },
+  {
+    "romanized": "Bhaagvaan",
+    "urdu": "بھاگوان",
+    "definition": "Fortunate, lucky (used more in Hindi)",
+    "usage": "Unknown",
+    "related": ["Unknown"]
+  },
+  {
+    "romanized": "Fasaad",
+    "urdu": "فساد",
+    "definition": "Discord, riot, trouble (jhagraa)",
+    "usage": "Shahar mein fasaad ho gaya. (There was a riot in the city.)",
+    "related": ["jhagra", "fitna"]
+  },
+  {
+    "romanized": "Naaqadar",
+    "urdu": "ناقدر",
+    "definition": "Ungrateful, unappreciative",
+    "usage": "Woh ek naaqadar insaan hai. (He is an ungrateful person.)",
+    "related": ["ahsan faramosh", "qadr na karne wala"]
+  },
+  {
+    "romanized": "Sutlii",
+    "urdu": "ستلی",
+    "definition": "String, twine",
+    "usage": "Sutlii se bandh do. (Tie it with a string.)",
+    "related": ["rassi", "dhaaga"]
+  },
+  {
+    "romanized": "Rafeeq",
+    "urdu": "رفیق",
+    "definition": "Companion, friend (the one who you are close to? Used in very limited circumstances)",
+    "usage": "Woh mera rafeeq-e-safar hai. (He is my travel companion.)",
+    "related": ["dost", "saathi"]
+  },
+  {
+    "romanized": "Chappar",
+    "urdu": "چھپر",
+    "definition": "Shelter, roof (usually thatched or temporary)",
+    "usage": "Gareeb ka chappar. (The poor man's shelter.)",
+    "related": ["chhat", "aasra"]
+  },
+  {
+    "romanized": "Saadir",
+    "urdu": "صادر",
+    "definition": "To issue, to force a decision (faislaa saadir karna), to emanate (used with faislaa, hukum denaa)",
+    "usage": "Hukm saadir kiya gaya. (The order was issued.)",
+    "related": ["jari karna", "farmana"]
+  },
+  {
+    "romanized": "Thope-naa",
+    "urdu": "تھوپنا",
+    "definition": "To impose, to force something upon someone (slang)",
+    "usage": "Mujh par apni ray mat thopo. (Don't impose your opinion on me.)",
+    "related": ["jabran karna", "dabaav dalna"]
+  },
+  {
+    "romanized": "Qaabil e parastish",
+    "urdu": "قابل پرستش",
+    "definition": "Worthy of worship, adorable",
+    "usage": "Woh qaabil-e-parastish hasti hai. (He is a worshipable figure.)",
+    "related": ["pooja ke qabil", "ehtiraam ke qabil"]
+  },
+  {
+    "romanized": "Nufoos",
+    "urdu": "نفوس",
+    "definition": "Souls, individuals (from Nafs, plural, all the people)",
+    "usage": "Hazaron nufoos. (Thousands of souls/people.)",
+    "related": ["log", "insan"]
+  },
+  {
+    "romanized": "Nafees",
+    "urdu": "نفیس",
+    "definition": "Fine, clean, elegant, refined",
+    "usage": "Bahut nafees kaam hai. (It's a very fine piece of work.)",
+    "related": ["suthra", "umda"]
+  },
+  {
+    "romanized": "Shafaq",
+    "urdu": "شفق",
+    "definition": "Redness of dusk, twilight",
+    "usage": "Shafaq ka khoobsurat manzar. (The beautiful scene of twilight.)",
+    "related": ["ghuroob", "shaam"]
+  },
+  {
+    "romanized": "Sukhan",
+    "urdu": "سخن",
+    "definition": "Spoken language, speech, word, poetry",
+    "usage": "Uska sukhan bahut meetha hai. (His speech is very sweet.)",
+    "related": ["baat", "guftagu"]
+  },
+  {
+    "romanized": "Aftaab",
+    "urdu": "آفتاب",
+    "definition": "Sun, sunshine (sooraj)",
+    "usage": "Aftaab chamak raha hai. (The sun is shining.)",
+    "related": ["suraj", "khurshid"]
+  },
+  {
+    "romanized": "Mahtaab",
+    "urdu": "مہتاب",
+    "definition": "Moon, moonlight",
+    "usage": "Mahtaab ki roshni. (The moonlight.)",
+    "related": ["chand", "qamar"]
+  },
+  {
+    "romanized": "Shuaon",
+    "urdu": "شعاعوں",
+    "definition": "Rays (plural)",
+    "usage": "Suraj ki shuaon. (Rays of the sun.)",
+    "related": ["kirnein", "roshni"]
+  },
+  {
+    "romanized": "Gufto shaneed",
+    "urdu": "گفت و شنید",
+    "definition": "Conversation (back and forth), dialogue",
+    "usage": "Unhone lambi gufto shaneed ki. (They had a long conversation.)",
+    "related": ["baat cheet", "mukalma"]
+  },
+  {
+    "romanized": "Dil Paseejna",
+    "urdu": "دل پسیجنا",
+    "definition": "Pangs in the heart (like pangs of sadness), to feel compassion/pity",
+    "usage": "Uska dil ghareeb par paseej gaya. (His heart felt pity for the poor.)",
+    "related": ["dil narm hona", "rahem aana"]
+  },
+  {
+    "romanized": "Aanth",
+    "urdu": "آنت",
+    "definition": "Intestine",
+    "usage": "Pet ki aantein. (Intestines of the stomach.)",
+    "related": ["antra", "aanton"]
+  },
+  {
+    "romanized": "Zariya e maash",
+    "urdu": "ذریعہ معاش",
+    "definition": "Source of income, aka job",
+    "usage": "Uska zariya e maash kya hai? (What is his source of income?)",
+    "related": ["rozgar", "pesha"]
+  },
+  {
+    "romanized": "Teeli",
+    "urdu": "تیلی",
+    "definition": "Really thin metal rods (like bike spokes), needles, matchstick",
+    "usage": "Machis ki teeli. (Matchstick.)",
+    "related": ["salai", "sui"]
+  },
+  {
+    "romanized": "Hunarmand",
+    "urdu": "ہنرمند",
+    "definition": "A person with Hunar, skilled, talented",
+    "usage": "Woh ek hunarmand fankar hai. (He is a skilled artist.)",
+    "related": ["mahir", "ustaad"]
+  },
+  {
+    "romanized": "Ugnaa",
+    "urdu": "اُگنا",
+    "definition": "To grow (plants, hair, etc.), to sprout",
+    "usage": "Paudhe ug rahe hain. (Plants are growing.)",
+    "related": ["phootna", "parwarish"]
+  },
+  {
+    "romanized": "Mannat",
+    "urdu": "منت",
+    "definition": "A pledge, a vow (like 'if you do X, God, I will do Y'), prayer, gratitude",
+    "usage": "Usne mannat maangi. (He made a vow.)",
+    "related": ["dua", "nazr"]
+  },
+  {
+    "romanized": "Nafaa",
+    "urdu": "نفع",
+    "definition": "Profit, gain",
+    "usage": "Mujhe is mein nafaa hua. (I gained profit in this.)",
+    "related": ["faida", "munafa"]
+  },
+  {
+    "romanized": "Math",
+    "urdu": "مَشورہ",
+    "definition": "Consultation, advice (mashfara - seems to be a phonetic interpretation)",
+    "usage": "Mujhe tumhara math chahiye. (I need your advice.)",
+    "related": ["mashwara", "ray"]
+  },
+  {
+    "romanized": "Afraat",
+    "urdu": "افراط",
+    "definition": "Abundance, excess",
+    "usage": "Wahan pani ki afraat hai. (There is an abundance of water there.)",
+    "related": ["kasrat", "ziyadati"]
+  },
+  {
+    "romanized": "Waazay",
+    "urdu": "واضح",
+    "definition": "Clear (mostly for some idea being clear), distinct",
+    "usage": "Uski baat waazay hai. (His point is clear.)",
+    "related": ["saaf", "sareeh"]
+  },
+  {
+    "romanized": "Shughl",
+    "urdu": "شغل",
+    "definition": "Occupation, pastime, a funny story or anecdote",
+    "usage": "Yeh mera shughl hai. (This is my pastime.)",
+    "related": ["mashghala", "dilchasp"]
+  },
+  {
+    "romanized": "Bunyaad",
+    "urdu": "بنیاد",
+    "definition": "Foundation, basis",
+    "usage": "Is imarat ki bunyaad mazboot hai. (The foundation of this building is strong.)",
+    "related": ["asas", "neev"]
+  },
+  {
+    "romanized": "Braadhree",
+    "urdu": "برادری",
+    "definition": "Extended family, broader than khaandaan, community",
+    "usage": "Hamari braadhree. (Our community.)",
+    "related": ["rishtedaar", "khaandaan"]
+  },
+  {
+    "romanized": "Dukhtar",
+    "urdu": "دختر",
+    "definition": "Daughter (formally, especially in writing/poetry)",
+    "usage": "Badshah ki dukhtar. (The king's daughter.)",
+    "related": ["beti", "ladki"]
+  },
+  {
+    "romanized": "Tawarruq",
+    "urdu": "تَوَرُّق",
+    "definition": "Blessed by Allah (heard in the context of naming kids), something blessed or hallowed",
+    "usage": "Unknown",
+    "related": ["Unknown"]
+  },
+  {
+    "romanized": "Shodaa",
+    "urdu": "شوہدا",
+    "definition": "Show off, rogue, rowdy (can be negative)",
+    "usage": "Woh bahut shodaa hai. (He is very showy/rowdy.)",
+    "related": ["numaishi", "badmaash"]
+  },
+  {
+    "romanized": "Taqaazaa",
+    "urdu": "تقاضا",
+    "definition": "To collect on your loans, demand, requirement",
+    "usage": "Qarz ka taqaazaa kiya. (He demanded the loan back.)",
+    "related": ["mutalba", "zarurat"]
+  },
+  {
+    "romanized": "Shubaa",
+    "urdu": "شبہ",
+    "definition": "Doubt, suspicion",
+    "usage": "Mujhe koi shubaa nahin. (I have no doubt.)",
+    "related": ["shak", "gumana"]
+  },
+  {
+    "romanized": "Musarrat",
+    "urdu": "مسرت",
+    "definition": "Joy, happiness, delight",
+    "usage": "Mujhe bahut musarrat hui. (I felt great joy.)",
+    "related": ["khushi", "shaadmani"]
+  },
+  {
+    "romanized": "Mutaabqat",
+    "urdu": "مطابقت",
+    "definition": "Compatibility, conformity, agreement",
+    "usage": "Unki rai mein mutaabqat hai. (There is compatibility in their opinions.)",
+    "related": ["ham aahangi", "muwafiqat"]
+  },
+  {
+    "romanized": "Sainth ke rakhni hai",
+    "urdu": "سینتھ کے رکھنی ہے",
+    "definition": "To keep/preserve something carefully, to save up",
+    "usage": "Yeh cheez sainth ke rakhni hai. (This thing needs to be kept carefully.)",
+    "related": ["mehfooz rakhna", "bacha ke rakhna"]
+  },
+  {
+    "romanized": "Kushaada",
+    "urdu": "کشادہ",
+    "definition": "Spacious, wide, open, bright? illuminated?",
+    "usage": "Yeh kamra kushaada hai. (This room is spacious.)",
+    "related": ["khula", "wasee"]
   }
 ]
